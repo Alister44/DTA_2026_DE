@@ -1,0 +1,501 @@
+customer_id,gender,age,country,channel,device,spend,session_min,sat_before,sat_after,purchased
+1001,m,23,Germany,Advertising,Desktop,997.11,22.2,6,7,Yes
+1002,m,38,Ukraine,Organic,Desktop,510.09,19.8,5,8,No
+1003,m,20,Ukraine,Social Media,Desktop,789.71,21,7,8,No
+1004,m,40,Germany,Social Media,Desktop,1041.02,17.4,8,9,No
+1005,m,18,Ukraine,Advertising,Desktop,944.34,23.5,6,7,No
+1006,m,22,Germany,Social Media,Desktop,490.13,9.5,8,8,Yes
+1007,f,30,Poland,Organic,Mobile,591.39,19.2,6,8,No
+1008,m,43,Germany,Advertising,Mobile,794.1,22.5,6,9,No
+1009,m,19,Ukraine,Organic,Mobile,365.26,5.6,7,7,No
+1010,m,34,Ukraine,Social Media,Desktop,519.49,11.4,9,10,Yes
+1011,f,27,Poland,Organic,Mobile,858.26,18,7,7,No
+1012,m,25,Poland,Advertising,Mobile,1282.62,31.3,6,6,No
+1013,m,20,Ukraine,Social Media,Mobile,884.5,17.9,6,7,No
+1014,m,28,Ukraine,Organic,Mobile,775.42,28.2,5,6,Yes
+1015,m,47,Ukraine,Social Media,Mobile,86.19,1,8,10,Yes
+1016,f,28,Poland,Organic,Desktop,580.65,20.2,5,4,No
+1017,f,67,Ukraine,Advertising,Mobile,480.28,1,7,8,No
+1018,f,30,Germany,Social Media,Mobile,313.58,1,4,5,No
+1019,m,56,Ukraine,Advertising,Desktop,1445.69,33.7,5,5,Yes
+1020,f,38,Ukraine,Social Media,Desktop,906.9,24.4,5,5,Yes
+1021,f,27,Ukraine,Advertising,Mobile,865.72,11.3,6,6,Yes
+1022,f,18,Ukraine,Social Media,Mobile,968.58,27.6,6,6,Yes
+1023,m,18,Ukraine,Social Media,Mobile,818.61,28.7,7,9,No
+1024,m,34,Germany,Advertising,Mobile,1072.31,26,8,8,No
+1025,m,52,Germany,Social Media,Mobile,1124.11,31.5,6,7,Yes
+1026,m,31,Ukraine,Social Media,Mobile,1366.43,30.1,6,6,Yes
+1027,m,26,Ukraine,Organic,Mobile,479.53,7.1,6,6,Yes
+1028,f,50,Ukraine,Organic,Mobile,407.69,15.4,6,6,Yes
+1029,m,23,Ukraine,Advertising,Mobile,718.81,20.3,8,8,No
+1030,m,33,Ukraine,Social Media,Mobile,364,6.6,6,6,No
+1031,f,54,Ukraine,Organic,Mobile,504.12,13.8,5,4,Yes
+1032,m,36,Ukraine,Social Media,Desktop,640.93,9.7,4,5,No
+1033,f,35,Poland,Organic,Mobile,885.47,5.5,5,4,No
+1034,f,32,Ukraine,Advertising,Desktop,1040.06,27.2,6,6,No
+1035,f,51,Germany,Social Media,Desktop,1231.58,26.2,5,7,No
+1036,f,38,Germany,Organic,Desktop,1022.29,18.8,9,9,No
+1037,m,22,Ukraine,Organic,Desktop,969.49,26.2,5,6,No
+1038,f,25,Ukraine,Social Media,Mobile,1178.25,38.1,8,9,No
+1039,m,35,Poland,Advertising,Desktop,1250.08,42.8,7,8,Yes
+1040,m,18,Ukraine,Organic,Mobile,1246.71,20.1,8,10,No
+1041,m,41,Ukraine,Advertising,Desktop,1289.76,26.9,8,9,No
+1042,f,48,Poland,Social Media,Desktop,930.83,30.6,9,10,No
+1043,f,30,Poland,Advertising,Mobile,775.73,23.7,5,8,No
+1044,f,25,Ukraine,Social Media,Mobile,919.16,20.2,7,5,No
+1045,m,33,Ukraine,Organic,Mobile,1447.34,27.6,6,7,No
+1046,m,52,Ukraine,Organic,Mobile,1074.55,20.5,6,3,No
+1047,m,22,Ukraine,Advertising,Mobile,879.74,22.3,7,9,Yes
+1048,f,44,Poland,Social Media,Desktop,541.12,5.2,7,7,No
+1049,f,42,Ukraine,Organic,Mobile,975.56,21.1,10,10,Yes
+1050,f,48,Poland,Advertising,Mobile,513.79,9.9,6,6,No
+1051,f,39,Germany,Organic,Mobile,1033.14,19.9,4,5,No
+1052,m,49,Ukraine,Advertising,Mobile,1114.61,10.3,6,7,No
+1053,f,38,Germany,Social Media,Desktop,561.66,12.4,7,8,No
+1054,m,40,Germany,Advertising,Mobile,1182.07,31.4,8,9,No
+1055,f,37,Ukraine,Organic,Mobile,602.83,18.8,6,7,No
+1056,f,32,Germany,Advertising,Mobile,1332.28,37.9,6,7,No
+1057,f,43,Ukraine,Social Media,Mobile,1114.6,21.9,5,7,No
+1058,f,48,Poland,Advertising,Mobile,682.7,14.1,7,7,Yes
+1059,f,18,Germany,Social Media,Desktop,1126.34,28.5,7,7,Yes
+1060,f,46,Ukraine,Advertising,Desktop,633.21,18.5,4,5,No
+1061,m,26,Germany,Organic,Desktop,1035.72,48.1,6,4,No
+1062,m,35,Germany,Organic,Mobile,1178.79,28.6,8,9,No
+1063,f,41,Ukraine,Social Media,Mobile,849.59,2.8,9,10,No
+1064,m,47,Ukraine,Advertising,Mobile,787.33,32.6,5,6,No
+1065,m,41,Poland,Social Media,Mobile,835.06,9.4,5,6,No
+1066,f,52,Germany,Social Media,Desktop,775.94,23.7,7,8,No
+1067,f,51,Ukraine,Advertising,Mobile,959.43,10.5,6,5,No
+1068,f,40,Germany,Social Media,Mobile,1334.29,29.6,3,7,No
+1069,f,22,Poland,Organic,Mobile,734.45,26,9,10,Yes
+1070,f,50,Ukraine,Organic,Desktop,970.98,24.3,6,9,Yes
+1071,m,21,Ukraine,Organic,Mobile,458.3,22.5,6,5,No
+1072,m,39,Germany,Social Media,Mobile,861.49,24.5,8,9,Yes
+1073,f,37,Ukraine,Advertising,Mobile,1189.94,34.9,6,9,Yes
+1074,f,31,Germany,Advertising,Desktop,987.61,23.7,7,10,No
+1075,f,23,Ukraine,Advertising,Mobile,1645.33,43.4,5,6,No
+1076,m,40,Ukraine,Advertising,Mobile,1283.34,36,7,8,No
+1077,m,39,Germany,Social Media,Mobile,507.82,12.2,6,6,Yes
+1078,m,36,Poland,Social Media,Desktop,843.21,28.8,6,6,No
+1079,m,32,Ukraine,Organic,Mobile,739.56,13.9,5,4,No
+1080,m,59,Ukraine,Advertising,Mobile,855.22,10.4,8,10,Yes
+1081,f,41,Poland,Social Media,Desktop,650.19,25.4,7,8,No
+1082,m,29,Ukraine,Organic,Desktop,799.19,9.4,8,9,Yes
+1083,f,58,Ukraine,Social Media,Mobile,1102.66,27.4,8,10,Yes
+1084,f,18,Ukraine,Organic,Desktop,1139.62,30,7,8,No
+1085,f,51,Ukraine,Social Media,Mobile,50,1.3,5,2,Yes
+1086,f,25,Ukraine,Advertising,Desktop,1239.85,26.2,6,8,No
+1087,f,25,Germany,Social Media,Desktop,1001.01,24.2,5,5,No
+1088,f,30,Poland,Organic,Desktop,1021.01,28.1,8,8,Yes
+1089,m,45,Poland,Advertising,Mobile,1325.83,25.3,6,5,No
+1090,f,23,Germany,Social Media,Desktop,730.13,7.2,9,10,No
+1091,f,21,Ukraine,Advertising,Mobile,976.71,23.2,7,7,Yes
+1092,m,47,Ukraine,Social Media,Mobile,247.01,20.5,8,8,No
+1093,f,26,Ukraine,Advertising,Mobile,972.26,22.2,8,7,Yes
+1094,m,53,Germany,Social Media,Mobile,1041.73,18.8,5,5,No
+1095,m,35,Ukraine,Organic,Desktop,458.31,19.4,6,7,No
+1096,f,43,Poland,Organic,Mobile,779.69,18.1,6,5,Yes
+1097,m,35,Poland,Advertising,Desktop,1952.02,52.2,9,10,Yes
+1098,m,35,Ukraine,Advertising,Mobile,833.01,13.1,4,6,No
+1099,f,22,Germany,Social Media,Desktop,457.71,9.7,8,8,No
+1100,m,23,Ukraine,Social Media,Mobile,382.57,1,7,7,No
+1101,f,32,Poland,Social Media,Desktop,1025.59,24.6,5,6,No
+1102,m,45,Ukraine,Advertising,Mobile,956,26.8,9,10,No
+1103,f,49,Poland,Advertising,Mobile,1126.21,23.2,5,7,No
+1104,f,27,Poland,Organic,Mobile,667.07,18.3,7,6,Yes
+1105,m,35,Ukraine,Advertising,Mobile,1260.83,20.7,4,5,No
+1106,f,33,Poland,Social Media,Desktop,784.65,25.7,5,6,No
+1107,f,38,Germany,Social Media,Desktop,1322.34,32.9,8,9,No
+1108,m,29,Ukraine,Social Media,Desktop,239.91,14.7,8,9,Yes
+1109,f,42,Ukraine,Advertising,Mobile,1047.87,31.7,9,10,Yes
+1110,f,47,Germany,Advertising,Desktop,819.57,20.7,5,7,Yes
+1111,m,40,Germany,Advertising,Desktop,1502.06,41.1,7,7,No
+1112,f,28,Ukraine,Advertising,Mobile,730.05,18.3,5,5,No
+1113,m,21,Germany,Organic,Desktop,571.49,7.4,6,6,No
+1114,f,69,Poland,Organic,Desktop,50,9.9,8,8,Yes
+1115,m,21,Ukraine,Advertising,Mobile,1078.43,18.9,8,9,No
+1116,m,35,Ukraine,Social Media,Desktop,707.22,1,7,6,Yes
+1117,m,46,Ukraine,Advertising,Desktop,723.07,12.4,5,6,No
+1118,m,33,Germany,Organic,Mobile,802.24,37,8,9,No
+1119,m,18,Ukraine,Organic,Mobile,1080.46,23.6,9,10,No
+1120,f,24,Poland,Social Media,Mobile,677.46,4,7,7,No
+1121,m,27,Ukraine,Organic,Mobile,613.38,14.1,6,7,No
+1122,f,33,Ukraine,Social Media,Mobile,360.64,2.9,6,8,Yes
+1123,m,46,Ukraine,Advertising,Mobile,1677.89,42.6,6,7,Yes
+1124,f,26,Ukraine,Advertising,Desktop,1249.35,38.1,5,7,Yes
+1125,f,18,Poland,Advertising,Mobile,539.86,19.7,6,8,No
+1126,f,37,Ukraine,Advertising,Desktop,1016.86,27.2,7,7,No
+1127,f,38,Ukraine,Organic,Mobile,1136.91,29,5,7,No
+1128,f,52,Germany,Social Media,Mobile,669.17,20.5,8,9,Yes
+1129,m,43,Ukraine,Advertising,Mobile,1170.53,27,9,10,No
+1130,f,29,Ukraine,Organic,Mobile,925.16,27.8,7,6,Yes
+1131,m,40,Ukraine,Organic,Mobile,978.8,27.4,8,8,No
+1132,f,33,Germany,Organic,Mobile,1208.51,32.6,6,8,Yes
+1133,m,26,Ukraine,Organic,Desktop,792.81,12.1,7,9,No
+1134,m,36,Ukraine,Organic,Desktop,863.39,29.9,8,8,Yes
+1135,f,27,Ukraine,Organic,Mobile,751.04,10.2,8,9,No
+1136,f,24,Poland,Organic,Desktop,1261.32,25.5,6,7,No
+1137,m,39,Germany,Advertising,Mobile,1174.9,27.5,10,10,No
+1138,f,34,Ukraine,Social Media,Desktop,565.03,21,7,6,No
+1139,f,41,Poland,Organic,Mobile,825.28,26.2,9,9,No
+1140,m,26,Poland,Organic,Desktop,1091.17,18.1,7,6,Yes
+1141,f,26,Poland,Social Media,Mobile,622.48,17.5,6,5,No
+1142,f,32,Germany,Social Media,Desktop,775.21,28.2,4,4,No
+1143,m,43,Germany,Organic,Desktop,1059.44,32.9,2,1,No
+1144,f,26,Ukraine,Social Media,Desktop,589.61,26.8,8,8,Yes
+1145,f,34,Ukraine,Advertising,Mobile,826.85,24.7,4,5,No
+1146,m,40,Germany,Organic,Mobile,502.56,26.1,7,5,No
+1147,m,27,Germany,Organic,Mobile,848.54,14.4,5,6,No
+1148,f,46,Ukraine,Advertising,Mobile,1163.96,29.7,7,6,Yes
+1149,f,41,Ukraine,Social Media,Mobile,747.91,6.2,6,7,No
+1150,f,61,Poland,Advertising,Desktop,782.94,20.8,4,5,Yes
+1151,m,59,Ukraine,Social Media,Mobile,549.02,16.1,10,10,No
+1152,f,34,Ukraine,Advertising,Mobile,1184.05,19.6,4,6,No
+1153,m,29,Germany,Social Media,Desktop,1072.38,33,6,7,Yes
+1154,f,42,Ukraine,Advertising,Desktop,999.73,34.2,8,9,No
+1155,f,34,Poland,Advertising,Mobile,949.91,27.9,5,4,No
+1156,m,53,Poland,Organic,Mobile,143.53,11.2,9,10,No
+1157,f,48,Germany,Advertising,Mobile,1230.2,14.8,8,9,Yes
+1158,f,21,Poland,Advertising,Desktop,716.74,18.2,7,7,Yes
+1159,m,34,Ukraine,Social Media,Desktop,504.96,8.5,6,6,No
+1160,f,32,Ukraine,Advertising,Mobile,1388.13,26.5,6,5,No
+1161,m,28,Poland,Advertising,Desktop,159.88,1,10,10,No
+1162,f,25,Poland,Organic,Mobile,889.27,9.5,6,7,Yes
+1163,m,38,Poland,Organic,Desktop,284.16,5.7,7,7,No
+1164,f,29,Ukraine,Social Media,Desktop,881.29,22.7,8,10,Yes
+1165,m,48,Ukraine,Advertising,Desktop,925.08,25.4,4,5,No
+1166,f,49,Poland,Advertising,Desktop,834.44,13.3,4,4,No
+1167,f,40,Germany,Social Media,Mobile,460.25,6.7,5,6,Yes
+1168,f,46,Germany,Advertising,Desktop,1183.45,33.2,6,8,No
+1169,f,23,Ukraine,Advertising,Mobile,708.32,5.3,8,10,No
+1170,f,40,Germany,Organic,Desktop,631.87,20.7,8,10,No
+1171,f,22,Poland,Organic,Mobile,724.54,13.7,7,7,No
+1172,m,22,Ukraine,Organic,Mobile,715.78,8.6,8,10,No
+1173,f,38,Ukraine,Social Media,Mobile,307.46,13,7,7,Yes
+1174,f,18,Germany,Organic,Mobile,837.85,20.5,7,6,No
+1175,m,33,Poland,Social Media,Desktop,643.31,21.9,8,8,No
+1176,f,35,Ukraine,Advertising,Mobile,1547.55,41.1,9,7,No
+1177,f,43,Germany,Organic,Desktop,1106.21,29.5,7,10,Yes
+1178,m,48,Ukraine,Social Media,Mobile,959.81,35.4,8,7,No
+1179,m,34,Poland,Social Media,Desktop,1020.4,42.2,5,5,Yes
+1180,f,18,Ukraine,Organic,Desktop,715.97,23.8,9,10,No
+1181,f,30,Ukraine,Social Media,Mobile,286.27,1,8,10,No
+1182,m,18,Poland,Organic,Desktop,991.55,26,7,9,No
+1183,m,24,Ukraine,Organic,Mobile,975.57,34.1,6,6,No
+1184,f,29,Poland,Organic,Desktop,994.54,18.4,8,9,Yes
+1185,m,35,Germany,Advertising,Mobile,1226.06,38,5,6,No
+1186,m,33,Ukraine,Organic,Mobile,1185.33,25.6,4,5,No
+1187,f,50,Poland,Organic,Mobile,599.5,15.9,6,7,No
+1188,m,23,Poland,Social Media,Mobile,50,1,6,7,No
+1189,m,59,Ukraine,Organic,Mobile,655.77,11.9,8,9,No
+1190,f,51,Poland,Organic,Mobile,713.88,11.1,6,8,Yes
+1191,f,45,Poland,Advertising,Desktop,903.56,18.4,7,6,No
+1192,m,18,Ukraine,Advertising,Mobile,930.77,12.7,8,8,No
+1193,m,18,Ukraine,Advertising,Desktop,1500.18,36.3,5,6,Yes
+1194,f,45,Ukraine,Social Media,Mobile,611.73,16.1,6,7,No
+1195,m,41,Ukraine,Social Media,Desktop,967.2,26.3,6,5,No
+1196,m,32,Ukraine,Organic,Mobile,872.92,1,7,7,No
+1197,f,21,Germany,Advertising,Mobile,971.15,23.7,7,9,Yes
+1198,m,46,Poland,Social Media,Mobile,581.24,20.8,6,9,Yes
+1199,m,51,Germany,Organic,Mobile,709.48,8.7,6,6,No
+1200,m,30,Poland,Advertising,Mobile,1344.04,34.7,7,8,No
+1201,m,33,Ukraine,Social Media,Desktop,269.36,9.8,6,8,No
+1202,f,19,Poland,Social Media,Desktop,1011.5,25.7,6,7,No
+1203,f,34,Ukraine,Organic,Mobile,804.54,15.2,7,6,No
+1204,m,32,Ukraine,Organic,Desktop,786.68,11.3,6,7,Yes
+1205,m,62,Germany,Organic,Mobile,397.29,8.8,7,7,Yes
+1206,m,29,Ukraine,Organic,Mobile,1013.23,9.5,5,5,No
+1207,f,44,Poland,Advertising,Mobile,1726.68,52,6,7,No
+1208,m,38,Germany,Advertising,Mobile,590.53,8.4,7,7,Yes
+1209,f,31,Ukraine,Organic,Mobile,497.41,19,6,6,No
+1210,f,32,Poland,Social Media,Mobile,999.16,30.4,8,7,No
+1211,m,47,Ukraine,Advertising,Mobile,652.77,2.1,6,7,Yes
+1212,f,33,Ukraine,Organic,Mobile,965.07,25.4,7,7,Yes
+1213,f,56,Poland,Advertising,Desktop,999.19,23.3,8,8,Yes
+1214,f,52,Ukraine,Advertising,Mobile,1375.21,41.7,8,9,Yes
+1215,m,28,Ukraine,Organic,Mobile,718.59,12.9,7,7,Yes
+1216,f,37,Poland,Organic,Mobile,651.48,22.8,8,8,Yes
+1217,f,46,Germany,Social Media,Mobile,679.43,11.3,8,9,Yes
+1218,f,29,Germany,Social Media,Desktop,50,1,5,6,Yes
+1219,f,69,Ukraine,Social Media,Mobile,521.61,20.8,4,5,No
+1220,m,37,Germany,Social Media,Mobile,263.82,1,5,8,No
+1221,m,22,Poland,Organic,Mobile,874.45,17,5,6,No
+1222,f,37,Germany,Organic,Mobile,875.42,16.6,8,8,Yes
+1223,f,41,Ukraine,Social Media,Desktop,1015.88,43.7,9,9,No
+1224,m,36,Poland,Organic,Mobile,989.37,25.8,7,10,No
+1225,m,35,Poland,Social Media,Desktop,837.78,21.5,7,9,Yes
+1226,f,18,Ukraine,Advertising,Mobile,1478.64,35.9,4,5,No
+1227,m,45,Poland,Advertising,Mobile,337.23,25.9,5,7,No
+1228,m,54,Poland,Social Media,Mobile,250.62,7.8,7,7,No
+1229,m,21,Poland,Organic,Mobile,808.7,16.5,5,4,No
+1230,m,18,Ukraine,Social Media,Mobile,428.26,18.3,6,6,Yes
+1231,m,32,Germany,Organic,Mobile,799.61,13.8,8,9,No
+1232,m,37,Poland,Advertising,Mobile,572.67,14.7,7,7,No
+1233,f,44,Germany,Organic,Mobile,456.47,12.5,9,7,Yes
+1234,f,45,Ukraine,Social Media,Desktop,553.61,18.9,6,8,No
+1235,m,18,Poland,Advertising,Mobile,1402.73,33.4,5,6,Yes
+1236,f,39,Ukraine,Organic,Desktop,1167.49,26.3,7,9,Yes
+1237,m,52,Poland,Organic,Mobile,348.19,1,7,9,Yes
+1238,m,19,Ukraine,Organic,Desktop,1037.51,24.7,7,8,No
+1239,m,39,Poland,Social Media,Mobile,753.79,14.7,3,3,No
+1240,m,26,Ukraine,Social Media,Desktop,638.16,17,8,8,Yes
+1241,m,26,Ukraine,Social Media,Mobile,343.92,14.8,6,5,Yes
+1242,f,38,Poland,Social Media,Mobile,811.19,25.1,9,10,No
+1243,m,22,Ukraine,Advertising,Mobile,958,15.8,6,5,No
+1244,m,28,Germany,Social Media,Desktop,530.06,26.4,7,7,Yes
+1245,m,28,Germany,Advertising,Mobile,1439.29,45.4,6,6,No
+1246,f,21,Ukraine,Advertising,Mobile,1450.28,34.2,7,7,No
+1247,m,39,Germany,Organic,Desktop,1072.69,34.5,4,5,No
+1248,f,28,Germany,Social Media,Desktop,897.52,23.6,9,7,No
+1249,m,32,Ukraine,Social Media,Mobile,939.03,12,6,8,No
+1250,f,36,Ukraine,Advertising,Mobile,948.83,21.6,8,10,No
+1251,m,25,Poland,Advertising,Desktop,824.42,21.2,5,6,Yes
+1252,m,36,Ukraine,Organic,Mobile,206.33,1.6,6,7,No
+1253,f,46,Ukraine,Advertising,Mobile,1233.06,32.3,6,7,No
+1254,f,32,Poland,Advertising,Mobile,1473.91,38,5,6,No
+1255,f,23,Ukraine,Organic,Mobile,673.21,5.9,9,8,No
+1256,m,35,Ukraine,Organic,Desktop,702.18,17.4,7,5,Yes
+1257,m,31,Poland,Advertising,Desktop,1599.01,36.3,8,10,No
+1258,f,18,Poland,Advertising,Desktop,1280.67,27,6,6,No
+1259,m,22,Ukraine,Social Media,Mobile,388.18,4.1,3,5,Yes
+1260,f,22,Ukraine,Social Media,Desktop,1076.1,24.5,8,10,No
+1261,f,33,Ukraine,Organic,Desktop,450.72,2.6,9,10,No
+1262,m,36,Ukraine,Social Media,Mobile,1085.51,18.3,6,7,Yes
+1263,m,23,Ukraine,Social Media,Desktop,447.17,21.4,7,8,No
+1264,f,27,Ukraine,Advertising,Desktop,1309.59,29,8,7,Yes
+1265,f,36,Ukraine,Organic,Mobile,670.48,17.2,6,6,Yes
+1266,m,27,Poland,Social Media,Mobile,354.28,12.8,6,5,No
+1267,f,18,Germany,Advertising,Mobile,1228.02,28.7,8,9,No
+1268,f,41,Ukraine,Social Media,Desktop,611.18,19.9,7,6,Yes
+1269,m,54,Ukraine,Social Media,Desktop,1172.58,23,7,7,No
+1270,f,39,Ukraine,Advertising,Mobile,1186.77,34.8,5,4,No
+1271,m,40,Ukraine,Advertising,Mobile,1521.98,35.3,9,10,No
+1272,m,32,Ukraine,Social Media,Desktop,1317.78,30.6,9,9,No
+1273,f,25,Germany,Advertising,Desktop,1205.83,34.6,7,9,Yes
+1274,m,49,Ukraine,Organic,Mobile,1228.01,15.9,6,6,No
+1275,m,24,Ukraine,Organic,Mobile,760.91,10.8,6,7,No
+1276,m,18,Ukraine,Social Media,Mobile,683.2,13.1,5,4,No
+1277,f,21,Poland,Social Media,Desktop,914.99,28.2,5,8,No
+1278,m,35,Ukraine,Organic,Mobile,988.25,17.9,7,7,No
+1279,f,29,Poland,Advertising,Mobile,694.51,17.9,7,8,No
+1280,m,37,Ukraine,Social Media,Desktop,648.96,11.1,6,7,No
+1281,m,22,Ukraine,Organic,Mobile,564.84,18.5,7,7,No
+1282,m,18,Ukraine,Organic,Mobile,1372.12,28,5,2,Yes
+1283,m,36,Ukraine,Advertising,Desktop,832.37,28,5,6,Yes
+1284,f,66,Poland,Advertising,Mobile,1231,42,8,10,No
+1285,f,24,Ukraine,Social Media,Mobile,596.08,21,5,7,No
+1286,f,31,Ukraine,Advertising,Mobile,1376.13,34.4,8,9,No
+1287,f,18,Ukraine,Organic,Mobile,696.44,18.8,9,10,No
+1288,m,60,Germany,Organic,Mobile,1109.72,44.2,6,6,Yes
+1289,f,27,Ukraine,Social Media,Mobile,980.98,37.5,7,7,No
+1290,f,45,Ukraine,Social Media,Desktop,544.15,19.2,6,6,No
+1291,f,27,Germany,Advertising,Desktop,764.25,16.5,7,9,Yes
+1292,f,21,Ukraine,Advertising,Desktop,833.14,33,7,7,No
+1293,f,41,Poland,Organic,Mobile,992.05,25.4,4,5,No
+1294,m,38,Germany,Social Media,Desktop,536.66,21.4,5,3,Yes
+1295,m,32,Ukraine,Social Media,Mobile,1126.89,27.5,5,5,Yes
+1296,m,18,Germany,Advertising,Mobile,838.97,22.6,8,10,No
+1297,f,46,Ukraine,Organic,Desktop,606.56,1.6,6,9,No
+1298,m,63,Ukraine,Organic,Desktop,679.03,7,6,9,No
+1299,m,43,Ukraine,Social Media,Desktop,1005.01,15.8,8,9,Yes
+1300,f,47,Poland,Social Media,Mobile,564.48,1,8,10,No
+1301,m,47,Ukraine,Social Media,Mobile,710.04,15.6,7,9,No
+1302,m,35,Ukraine,Organic,Mobile,747.38,19.8,9,10,No
+1303,m,42,Ukraine,Advertising,Mobile,694.63,17.2,5,7,No
+1304,m,38,Ukraine,Social Media,Mobile,468.88,14.9,8,10,Yes
+1305,f,24,Germany,Advertising,Desktop,1081.4,20.1,6,7,No
+1306,f,25,Ukraine,Organic,Desktop,1069.99,19.1,8,10,No
+1307,m,26,Ukraine,Organic,Desktop,676.52,21.8,6,9,No
+1308,f,18,Ukraine,Advertising,Desktop,814.26,5.9,7,8,No
+1309,f,49,Ukraine,Social Media,Desktop,611.17,18.3,7,10,No
+1310,m,18,Ukraine,Organic,Mobile,838.27,24,4,3,No
+1311,f,45,Poland,Organic,Mobile,879.53,18.4,6,6,No
+1312,m,28,Poland,Organic,Desktop,89.61,8.4,3,4,No
+1313,f,39,Ukraine,Organic,Desktop,544.68,16,5,5,No
+1314,m,34,Ukraine,Advertising,Desktop,1225.27,33.5,6,7,Yes
+1315,m,48,Ukraine,Advertising,Mobile,1484.56,38.7,8,8,No
+1316,m,36,Germany,Social Media,Mobile,1019.67,27,6,7,Yes
+1317,f,25,Germany,Social Media,Mobile,709.69,12.7,10,10,No
+1318,m,36,Ukraine,Organic,Desktop,489.26,15.8,8,9,No
+1319,m,42,Poland,Advertising,Desktop,831.35,22,6,5,Yes
+1320,m,37,Poland,Organic,Desktop,879.74,24.4,6,7,No
+1321,f,32,Ukraine,Advertising,Desktop,444.83,12.1,8,8,No
+1322,f,28,Ukraine,Advertising,Mobile,382.33,9.7,5,7,Yes
+1323,f,27,Poland,Organic,Mobile,671.33,6.3,7,6,No
+1324,m,39,Poland,Organic,Mobile,672.35,17.8,7,9,No
+1325,m,28,Ukraine,Advertising,Mobile,1508.85,32.1,8,8,No
+1326,f,26,Poland,Social Media,Mobile,963.04,22.1,6,6,Yes
+1327,f,18,Ukraine,Social Media,Mobile,1216.87,22.3,7,8,No
+1328,f,45,Poland,Social Media,Desktop,612.64,14.8,3,4,No
+1329,m,35,Poland,Organic,Mobile,887.11,19.7,10,10,Yes
+1330,m,31,Ukraine,Organic,Desktop,826.28,21.5,9,10,Yes
+1331,f,36,Germany,Social Media,Mobile,66.7,5.3,6,7,No
+1332,f,55,Ukraine,Organic,Mobile,1050.14,14.5,5,6,No
+1333,m,19,Ukraine,Social Media,Mobile,589.56,1,6,6,Yes
+1334,m,28,Ukraine,Social Media,Mobile,400.89,9.9,8,8,No
+1335,m,42,Ukraine,Organic,Desktop,972.34,27.3,6,7,Yes
+1336,m,29,Poland,Organic,Mobile,1150.76,28,6,6,No
+1337,f,32,Germany,Social Media,Mobile,729.39,17.1,5,7,Yes
+1338,f,38,Ukraine,Organic,Mobile,753.27,16.3,6,6,No
+1339,m,25,Ukraine,Advertising,Mobile,715.41,15.5,6,4,No
+1340,f,18,Germany,Social Media,Mobile,397.25,2.8,8,10,No
+1341,f,38,Germany,Social Media,Desktop,758.14,13.4,7,7,Yes
+1342,f,52,Ukraine,Organic,Mobile,1289.88,41.6,7,8,No
+1343,f,63,Poland,Advertising,Desktop,1073.08,12.8,8,7,No
+1344,f,39,Ukraine,Social Media,Mobile,314.89,11.7,7,7,No
+1345,f,32,Poland,Organic,Mobile,431.77,2.2,7,8,No
+1346,m,34,Germany,Organic,Mobile,571.91,14,6,7,No
+1347,m,27,Ukraine,Social Media,Desktop,1023.65,20.3,4,4,No
+1348,f,32,Ukraine,Social Media,Desktop,425.68,14.3,6,7,Yes
+1349,f,24,Poland,Advertising,Mobile,635.33,23.4,7,6,No
+1350,f,34,Poland,Organic,Mobile,950.58,24.1,5,5,Yes
+1351,f,35,Germany,Organic,Desktop,1212.28,29,5,7,No
+1352,f,64,Ukraine,Advertising,Desktop,1152.69,36.1,2,4,Yes
+1353,f,31,Ukraine,Social Media,Mobile,302.01,1,7,9,Yes
+1354,f,38,Germany,Organic,Mobile,373.24,9.9,7,7,No
+1355,f,45,Ukraine,Social Media,Desktop,668.26,16.5,4,2,No
+1356,f,45,Poland,Organic,Mobile,876.12,20.3,8,8,No
+1357,m,59,Ukraine,Advertising,Desktop,915.31,22.9,8,9,No
+1358,f,29,Ukraine,Organic,Mobile,902.95,23.5,6,7,Yes
+1359,m,38,Ukraine,Social Media,Mobile,1030.83,23.6,7,6,Yes
+1360,m,40,Germany,Advertising,Desktop,950.31,15.3,5,6,No
+1361,f,43,Ukraine,Organic,Desktop,935.25,33.5,7,8,No
+1362,m,22,Ukraine,Social Media,Desktop,826.06,15.1,6,8,No
+1363,f,30,Ukraine,Advertising,Mobile,938.7,29,4,4,Yes
+1364,m,25,Germany,Advertising,Mobile,844.86,21.8,10,10,Yes
+1365,m,40,Poland,Organic,Desktop,720.61,8.4,9,9,No
+1366,m,32,Ukraine,Social Media,Mobile,670.3,11.9,9,10,Yes
+1367,f,26,Poland,Social Media,Mobile,50,1,7,6,No
+1368,m,55,Poland,Advertising,Desktop,1251.69,36.9,9,9,No
+1369,f,28,Poland,Advertising,Mobile,1159.39,24.3,6,7,No
+1370,m,18,Germany,Advertising,Mobile,1277.42,29.5,7,5,Yes
+1371,f,36,Germany,Social Media,Desktop,1042.07,18.9,6,6,No
+1372,f,46,Poland,Organic,Desktop,605.29,1,6,7,No
+1373,m,32,Poland,Organic,Mobile,306.25,4,7,7,Yes
+1374,f,34,Germany,Advertising,Mobile,1028.62,24.4,7,7,No
+1375,f,38,Poland,Organic,Mobile,675.75,6.1,5,6,No
+1376,f,37,Poland,Organic,Desktop,738.15,24,7,7,Yes
+1377,m,42,Ukraine,Advertising,Desktop,830.79,7.7,6,7,Yes
+1378,f,36,Ukraine,Organic,Mobile,896.91,21.8,6,7,No
+1379,f,25,Ukraine,Social Media,Desktop,649.96,20.2,5,6,No
+1380,m,38,Ukraine,Organic,Desktop,1430.49,44,5,5,Yes
+1381,m,26,Ukraine,Advertising,Desktop,1174.5,23.2,9,10,No
+1382,f,45,Germany,Advertising,Mobile,888.51,33,6,5,No
+1383,m,28,Germany,Social Media,Desktop,921.46,25.6,6,8,No
+1384,f,58,Ukraine,Organic,Mobile,674.6,7.8,6,5,No
+1385,f,28,Ukraine,Organic,Mobile,932,10.3,10,10,No
+1386,m,38,Ukraine,Social Media,Mobile,953.93,32.2,4,4,No
+1387,f,30,Germany,Organic,Desktop,1115.45,21.9,7,5,Yes
+1388,f,35,Germany,Social Media,Mobile,684.62,11.4,4,8,No
+1389,m,35,Ukraine,Organic,Desktop,684.95,26.1,6,7,No
+1390,m,25,Ukraine,Organic,Mobile,1187.94,34.3,6,6,No
+1391,f,31,Poland,Social Media,Desktop,389.41,20.4,6,7,Yes
+1392,f,18,Ukraine,Advertising,Mobile,1587.67,47.9,7,5,No
+1393,m,40,Ukraine,Social Media,Mobile,58.5,5.9,7,8,No
+1394,f,40,Poland,Advertising,Desktop,1048.82,18.4,7,7,Yes
+1395,m,28,Poland,Organic,Mobile,801.52,24.3,9,9,Yes
+1396,m,31,Poland,Advertising,Mobile,1411.22,22.8,8,10,No
+1397,f,18,Ukraine,Organic,Mobile,824.65,19.6,7,7,Yes
+1398,m,40,Ukraine,Organic,Mobile,822.62,20.3,6,6,No
+1399,m,38,Ukraine,Advertising,Desktop,1136.01,7,6,7,Yes
+1400,m,49,Poland,Organic,Mobile,443.99,8.2,7,8,No
+1401,m,42,Ukraine,Social Media,Desktop,1043.62,24.5,8,9,Yes
+1402,f,28,Poland,Advertising,Desktop,1643.42,42.3,7,8,Yes
+1403,m,37,Ukraine,Advertising,Mobile,1184.06,43.7,5,7,No
+1404,f,22,Poland,Advertising,Mobile,516.77,1,6,9,No
+1405,m,62,Poland,Advertising,Desktop,576.79,37.7,6,7,No
+1406,m,34,Poland,Advertising,Mobile,1408.39,45.5,5,5,No
+1407,f,29,Germany,Advertising,Mobile,782.3,32.1,7,7,Yes
+1408,f,18,Poland,Advertising,Mobile,1142.39,27,9,10,No
+1409,m,48,Poland,Social Media,Desktop,1082.58,23.2,9,10,Yes
+1410,m,24,Germany,Organic,Desktop,989.75,8.4,5,8,No
+1411,m,30,Germany,Organic,Desktop,319.02,10.1,5,6,Yes
+1412,f,30,Ukraine,Organic,Mobile,371.38,21.4,5,5,No
+1413,f,26,Ukraine,Advertising,Mobile,1127.42,22.6,6,6,No
+1414,f,26,Germany,Social Media,Mobile,497.08,11,9,10,No
+1415,f,33,Ukraine,Advertising,Desktop,998.94,29.1,6,7,Yes
+1416,f,45,Ukraine,Social Media,Mobile,534.99,9.3,3,7,No
+1417,m,29,Ukraine,Advertising,Desktop,797.31,9.9,7,7,No
+1418,f,36,Poland,Social Media,Mobile,1148.89,28.1,8,6,No
+1419,f,19,Poland,Social Media,Desktop,596.12,1,4,3,No
+1420,f,34,Ukraine,Organic,Mobile,289,10.4,7,8,No
+1421,m,39,Ukraine,Social Media,Mobile,50,1,6,7,No
+1422,m,36,Germany,Advertising,Mobile,1071.61,20,2,4,No
+1423,f,18,Ukraine,Organic,Mobile,751.67,39.6,7,5,No
+1424,f,18,Poland,Organic,Mobile,729.25,21.8,6,7,No
+1425,m,32,Germany,Social Media,Mobile,660.4,20.9,8,9,No
+1426,m,52,Ukraine,Advertising,Mobile,1540.06,27.2,8,8,No
+1427,m,35,Germany,Social Media,Mobile,201.84,1,4,4,No
+1428,m,18,Germany,Social Media,Desktop,752.22,13.3,5,7,Yes
+1429,m,23,Ukraine,Organic,Mobile,1214.27,33.3,8,8,No
+1430,m,18,Ukraine,Advertising,Mobile,1015.61,28,5,5,No
+1431,f,18,Ukraine,Social Media,Mobile,748.13,14.8,6,4,No
+1432,f,34,Ukraine,Social Media,Mobile,404.84,7.9,4,7,No
+1433,f,52,Germany,Organic,Mobile,50,1,4,3,Yes
+1434,m,44,Ukraine,Advertising,Desktop,1069.63,38.7,7,8,No
+1435,m,35,Ukraine,Social Media,Mobile,869.56,21.1,4,4,No
+1436,f,30,Poland,Social Media,Desktop,1259.54,31.5,6,7,Yes
+1437,f,18,Ukraine,Organic,Mobile,595.62,15.3,7,8,No
+1438,m,28,Germany,Organic,Mobile,619.26,21.5,7,7,Yes
+1439,m,27,Ukraine,Advertising,Mobile,1338.93,28,6,6,No
+1440,m,39,Germany,Advertising,Mobile,1338.53,20.5,4,3,Yes
+1441,f,38,Germany,Advertising,Desktop,1346.44,33.4,7,10,Yes
+1442,m,29,Ukraine,Social Media,Mobile,767.78,21.7,5,8,No
+1443,f,44,Poland,Social Media,Mobile,744.38,16.6,8,10,No
+1444,m,43,Germany,Organic,Mobile,801.28,16,7,5,No
+1445,m,30,Germany,Social Media,Mobile,441.92,35.8,7,9,No
+1446,f,37,Ukraine,Organic,Mobile,799.54,24.3,5,5,No
+1447,f,40,Ukraine,Social Media,Mobile,560.18,22.7,7,9,No
+1448,m,30,Poland,Social Media,Mobile,1057.54,33,7,9,No
+1449,m,28,Ukraine,Organic,Mobile,834.17,33.3,7,6,No
+1450,f,26,Ukraine,Organic,Mobile,675.77,20.5,10,9,No
+1451,f,51,Ukraine,Advertising,Desktop,799.33,19.4,6,6,No
+1452,m,21,Poland,Social Media,Mobile,253.52,11.1,5,5,Yes
+1453,f,23,Poland,Social Media,Mobile,747.71,30,6,7,No
+1454,m,18,Ukraine,Organic,Desktop,771.6,21.6,7,7,Yes
+1455,f,27,Poland,Advertising,Mobile,1218.03,28.5,4,7,No
+1456,m,47,Germany,Social Media,Desktop,1073.52,27.4,4,4,Yes
+1457,f,22,Germany,Organic,Mobile,1279.37,23.5,6,7,No
+1458,f,45,Ukraine,Advertising,Mobile,862.6,20.6,9,10,No
+1459,f,42,Ukraine,Organic,Mobile,947.81,28.3,5,4,No
+1460,m,25,Poland,Organic,Mobile,1174.72,39,8,5,No
+1461,m,20,Ukraine,Organic,Mobile,963.48,29.1,9,10,Yes
+1462,f,29,Ukraine,Social Media,Desktop,533.65,25.1,4,4,Yes
+1463,f,28,Ukraine,Social Media,Mobile,811.03,13.7,5,5,No
+1464,m,38,Poland,Social Media,Desktop,838.84,27.2,5,6,Yes
+1465,f,18,Poland,Social Media,Mobile,693.81,26.2,6,8,No
+1466,m,48,Germany,Organic,Desktop,1178.55,29.2,8,8,No
+1467,m,51,Ukraine,Social Media,Desktop,335.97,19.2,10,10,Yes
+1468,f,52,Ukraine,Organic,Mobile,1006.32,17.7,7,9,Yes
+1469,m,39,Poland,Organic,Mobile,518.25,1.2,7,10,Yes
+1470,m,40,Poland,Advertising,Mobile,1015.06,26.4,8,10,No
+1471,f,29,Germany,Advertising,Mobile,1276.71,23.1,8,8,No
+1472,m,38,Poland,Advertising,Mobile,1474.83,46.1,7,8,No
+1473,f,31,Ukraine,Advertising,Desktop,1311.89,28.6,8,9,No
+1474,f,40,Poland,Advertising,Desktop,1040.53,26,5,5,No
+1475,f,49,Ukraine,Organic,Desktop,425.97,17.6,6,5,Yes
+1476,m,18,Germany,Social Media,Desktop,511.37,11.6,8,7,No
+1477,m,30,Ukraine,Social Media,Mobile,612.59,15.7,10,10,No
+1478,f,32,Germany,Organic,Mobile,890.06,23.7,8,7,No
+1479,f,26,Germany,Organic,Desktop,513.17,20.8,6,5,Yes
+1480,f,30,Ukraine,Advertising,Desktop,1043.58,20.9,8,9,Yes
+1481,f,28,Germany,Advertising,Mobile,524.18,7.7,7,8,No
+1482,f,28,Ukraine,Organic,Mobile,288.68,3.8,4,4,No
+1483,m,18,Germany,Social Media,Desktop,936.98,26.7,6,7,Yes
+1484,m,53,Poland,Organic,Desktop,1302.2,33.1,9,10,Yes
+1485,m,20,Ukraine,Advertising,Mobile,971.34,10,6,8,No
+1486,m,24,Ukraine,Social Media,Desktop,1040.62,25.6,7,6,Yes
+1487,m,34,Ukraine,Social Media,Desktop,598.63,16.5,8,9,Yes
+1488,m,36,Germany,Organic,Mobile,906.62,23.7,6,8,Yes
+1489,f,36,Poland,Organic,Mobile,750.35,21.6,3,5,No
+1490,m,38,Ukraine,Advertising,Desktop,874.59,16.4,4,5,No
+1491,m,42,Poland,Advertising,Mobile,1283.61,25.9,5,6,Yes
+1492,m,54,Poland,Organic,Mobile,828.53,34.4,8,8,No
+1493,m,35,Germany,Organic,Mobile,544.88,27.9,8,10,Yes
+1494,f,42,Poland,Advertising,Mobile,1158.44,28.2,4,7,No
+1495,m,44,Ukraine,Advertising,Desktop,741.39,27.2,8,7,Yes
+1496,m,46,Ukraine,Social Media,Desktop,639.7,6.4,6,7,Yes
+1497,m,29,Ukraine,Organic,Mobile,780.85,8.3,7,5,Yes
+1498,f,45,Ukraine,Organic,Mobile,579.02,17,6,6,Yes
+1499,m,57,Ukraine,Social Media,Desktop,337.19,5.9,7,7,No
+1500,m,31,Poland,Social Media,Mobile,552.9,10,7,8,No
