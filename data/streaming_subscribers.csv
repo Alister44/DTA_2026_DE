@@ -1,0 +1,601 @@
+subscriber_id,age,gender,country,plan,monthly_fee,join_date,is_active
+1001,19,m,Ukraine,Premium,329,2023-02-27,No
+1002,40,f,Poland,Standard,219,2022-03-05,Yes
+1003,60,m,Ukraine,Basic,149,2023-02-20,Yes
+1004,36,m,Czech Republic,Basic,149,2022-02-22,Yes
+1005,34,f,Spain,Standard,219,2023-08-27,Yes
+1006,37,f,Poland,Standard,219,2024-11-17,Yes
+1007,16,f,Ukraine,Premium,329,2024-07-22,Yes
+1008,49,m,Germany,Standard,219,2022-11-06,Yes
+1009,47,f,Germany,Basic,149,2023-09-13,No
+1010,40,f,Germany,Standard,219,2022-10-03,No
+1011,16,m,Spain,Family,449,2023-09-17,Yes
+1012,56,m,Ukraine,Standard,219,2024-12-08,Yes
+1013,25,m,Spain,Standard,219,2023-01-01,Yes
+1014,17,m,Ukraine,Standard,219,2023-07-21,Yes
+1015,55,f,Ukraine,Standard,219,2022-02-14,No
+1016,20,m,Poland,Premium,329,2022-06-09,No
+1017,64,f,Germany,Standard,219,2022-11-21,No
+1018,20,m,Czech Republic,Premium,329,2023-11-08,Yes
+1019,64,f,Poland,Standard,219,2022-11-25,No
+1020,39,f,Ukraine,Family,449,2024-02-21,Yes
+1021,43,f,Ukraine,Basic,149,2024-01-12,Yes
+1022,35,m,Poland,Premium,329,2022-09-11,No
+1023,37,f,Poland,Standard,219,2023-04-19,Yes
+1024,48,m,Ukraine,Family,449,2023-07-02,No
+1025,28,m,Poland,Premium,329,2022-04-09,Yes
+1026,54,m,Ukraine,Standard,219,2024-03-26,No
+1027,66,f,Spain,Standard,219,2023-01-09,Yes
+1028,37,f,Ukraine,Basic,149,2024-03-20,Yes
+1029,37,f,Germany,Basic,149,2022-06-28,Yes
+1030,36,f,Ukraine,Premium,329,2023-04-27,No
+1031,67,f,Ukraine,Standard,219,2024-05-27,No
+1032,39,m,Ukraine,Standard,219,2023-09-27,Yes
+1033,40,f,Ukraine,Standard,219,2022-08-19,Yes
+1034,31,f,Germany,Standard,219,2023-10-19,Yes
+1035,48,f,Germany,Family,449,2023-01-06,Yes
+1036,58,m,Poland,Basic,149,2024-01-16,No
+1037,36,f,Lithuania,Family,449,2022-10-28,Yes
+1038,61,m,Germany,Family,449,2023-12-13,Yes
+1039,32,f,Ukraine,Family,449,2023-07-02,Yes
+1040,59,m,Ukraine,Basic,149,2024-03-25,Yes
+1041,35,f,Poland,Family,449,2022-05-17,Yes
+1042,55,f,Poland,Standard,219,2022-09-03,Yes
+1043,42,f,Czech Republic,Standard,219,2022-10-14,Yes
+1044,49,m,Ukraine,Standard,219,2022-04-08,No
+1045,29,m,Ukraine,Family,449,2022-07-21,Yes
+1046,18,f,Spain,Basic,149,2023-12-10,No
+1047,23,f,Ukraine,Premium,329,2023-04-17,Yes
+1048,66,f,Ukraine,Basic,149,2022-09-22,No
+1049,51,m,Ukraine,Basic,149,2023-01-10,Yes
+1050,24,f,Ukraine,Family,449,2023-09-20,Yes
+1051,34,m,Ukraine,Standard,219,2022-02-17,No
+1052,53,m,Germany,Premium,329,2024-04-13,Yes
+1053,46,m,Ukraine,Family,449,2022-02-11,Yes
+1054,30,m,Poland,Family,449,2024-07-02,Yes
+1055,45,m,Germany,Basic,149,2022-06-15,No
+1056,68,m,Ukraine,Premium,329,2023-11-05,Yes
+1057,34,m,Ukraine,Standard,219,2022-01-02,Yes
+1058,31,f,Ukraine,Basic,149,2022-10-25,Yes
+1059,42,m,Spain,Standard,219,2023-11-05,No
+1060,54,f,Ukraine,Standard,219,2022-06-17,Yes
+1061,21,m,Ukraine,Basic,149,2023-08-28,Yes
+1062,41,f,Germany,Basic,149,2022-12-12,Yes
+1063,34,m,Germany,Standard,219,2024-03-13,Yes
+1064,64,m,Spain,Premium,329,2022-04-12,Yes
+1065,61,f,Germany,Standard,219,2022-06-02,No
+1066,24,m,Ukraine,Basic,149,2023-09-26,Yes
+1067,58,f,Poland,Family,449,2023-05-26,No
+1068,44,f,Spain,Basic,149,2022-10-04,No
+1069,69,m,Ukraine,Family,449,2023-11-06,No
+1070,40,m,Ukraine,Basic,149,2022-07-05,No
+1071,27,m,Poland,Standard,219,2023-05-03,No
+1072,66,m,Germany,Standard,219,2022-11-22,Yes
+1073,35,f,Ukraine,Standard,219,2024-06-01,Yes
+1074,34,m,Spain,Basic,149,2022-08-02,Yes
+1075,26,f,Germany,Standard,219,2022-08-19,No
+1076,52,m,Czech Republic,Family,449,2024-09-12,Yes
+1077,21,m,Poland,Family,449,2023-12-01,Yes
+1078,25,f,Lithuania,Standard,219,2024-01-27,Yes
+1079,55,m,Ukraine,Premium,329,2024-11-13,No
+1080,21,f,Ukraine,Basic,149,2024-03-26,Yes
+1081,39,m,Poland,Premium,329,2023-07-28,Yes
+1082,70,m,Spain,Family,449,2024-12-05,Yes
+1083,45,f,Spain,Basic,149,2024-08-01,Yes
+1084,39,f,Germany,Standard,219,2024-10-19,Yes
+1085,28,f,Ukraine,Standard,219,2024-02-16,No
+1086,58,f,Ukraine,Basic,149,2024-10-03,Yes
+1087,24,f,Poland,Premium,329,2023-09-25,Yes
+1088,37,f,Ukraine,Premium,329,2023-11-09,Yes
+1089,27,m,Ukraine,Premium,329,2022-12-17,Yes
+1090,39,m,Spain,Basic,149,2024-03-22,Yes
+1091,65,m,Germany,Basic,149,2024-03-25,No
+1092,46,m,Ukraine,Standard,219,2024-09-21,Yes
+1093,43,f,Czech Republic,Family,449,2023-06-02,Yes
+1094,60,f,Ukraine,Standard,219,2023-01-04,Yes
+1095,39,f,Ukraine,Basic,149,2024-09-23,Yes
+1096,62,m,Czech Republic,Standard,219,2023-11-08,Yes
+1097,57,f,Poland,Premium,329,2023-07-21,No
+1098,57,f,Spain,Standard,219,2023-09-10,Yes
+1099,29,f,Czech Republic,Basic,149,2022-09-01,Yes
+1100,41,f,Czech Republic,Basic,149,2022-03-12,Yes
+1101,63,f,Poland,Standard,219,2023-09-13,Yes
+1102,21,f,Germany,Standard,219,2022-02-28,Yes
+1103,62,f,Poland,Standard,219,2022-07-02,Yes
+1104,48,f,Ukraine,Premium,329,2024-06-12,Yes
+1105,54,m,Ukraine,Basic,149,2023-09-11,Yes
+1106,67,m,Ukraine,Premium,329,2022-06-20,Yes
+1107,50,f,Czech Republic,Basic,149,2023-03-07,Yes
+1108,51,f,Ukraine,Standard,219,2022-04-15,Yes
+1109,46,m,Germany,Standard,219,2023-07-24,No
+1110,57,m,Ukraine,Standard,219,2022-10-28,Yes
+1111,30,f,Czech Republic,Basic,149,2023-09-15,Yes
+1112,54,m,Ukraine,Standard,219,2024-04-23,Yes
+1113,53,m,Ukraine,Basic,149,2023-12-21,No
+1114,38,f,Germany,Basic,149,2023-07-05,Yes
+1115,55,f,Ukraine,Premium,329,2023-04-19,Yes
+1116,65,m,Ukraine,Standard,219,2022-03-25,Yes
+1117,36,f,Ukraine,Basic,149,2023-04-03,Yes
+1118,43,m,Ukraine,Family,449,2024-01-20,Yes
+1119,42,f,Spain,Basic,149,2023-03-15,Yes
+1120,63,m,Ukraine,Basic,149,2023-05-14,Yes
+1121,52,m,Ukraine,Basic,149,2024-11-26,Yes
+1122,59,f,Germany,Family,449,2022-03-17,Yes
+1123,63,f,Ukraine,Standard,219,2022-12-01,Yes
+1124,30,m,Germany,Premium,329,2024-07-23,No
+1125,66,m,Ukraine,Standard,219,2023-04-05,Yes
+1126,16,m,Germany,Family,449,2023-09-10,No
+1127,27,f,Poland,Standard,219,2023-09-10,Yes
+1128,56,f,Ukraine,Standard,219,2022-08-26,Yes
+1129,70,m,Ukraine,Premium,329,2023-06-12,No
+1130,38,m,Spain,Premium,329,2023-10-17,Yes
+1131,57,m,Czech Republic,Standard,219,2023-08-13,Yes
+1132,27,m,Germany,Standard,219,2024-08-25,Yes
+1133,63,f,Lithuania,Standard,219,2022-05-19,Yes
+1134,50,m,Czech Republic,Premium,329,2022-12-08,No
+1135,59,f,Germany,Basic,149,2024-06-15,No
+1136,61,f,Ukraine,Standard,219,2023-11-02,Yes
+1137,24,m,Lithuania,Basic,149,2022-11-25,Yes
+1138,31,f,Poland,Basic,149,2023-07-18,Yes
+1139,52,m,Poland,Family,449,2024-11-11,No
+1140,30,m,Czech Republic,Standard,219,2024-05-03,No
+1141,42,m,Ukraine,Premium,329,2024-12-16,Yes
+1142,31,f,Ukraine,Premium,329,2022-02-17,Yes
+1143,70,f,Ukraine,Basic,149,2022-12-03,Yes
+1144,50,m,Germany,Standard,219,2022-06-26,Yes
+1145,49,m,Germany,Premium,329,2022-11-22,Yes
+1146,56,f,Lithuania,Standard,219,2023-05-05,Yes
+1147,36,m,Ukraine,Basic,149,2023-11-08,No
+1148,55,m,Poland,Basic,149,2022-06-20,Yes
+1149,57,m,Germany,Family,449,2024-06-21,Yes
+1150,68,f,Czech Republic,Family,449,2023-11-14,Yes
+1151,28,f,Germany,Standard,219,2023-10-23,Yes
+1152,56,m,Poland,Standard,219,2023-03-15,Yes
+1153,57,f,Ukraine,Premium,329,2024-01-22,Yes
+1154,57,m,Ukraine,Standard,219,2022-11-08,Yes
+1155,32,m,Ukraine,Basic,149,2024-09-13,Yes
+1156,16,m,Ukraine,Family,449,2024-12-20,No
+1157,31,m,Ukraine,Standard,219,2023-04-22,Yes
+1158,50,f,Spain,Premium,329,2023-12-06,No
+1159,27,m,Ukraine,Standard,219,2024-10-19,Yes
+1160,64,m,Poland,Standard,219,2023-12-04,Yes
+1161,55,m,Spain,Basic,149,2022-03-23,No
+1162,37,m,Germany,Family,449,2022-04-25,Yes
+1163,18,f,Ukraine,Basic,149,2023-09-05,Yes
+1164,63,f,Poland,Family,449,2024-04-04,Yes
+1165,20,m,Germany,Standard,219,2024-02-05,No
+1166,68,f,Germany,Basic,149,2022-03-03,No
+1167,65,f,Germany,Basic,149,2022-01-22,Yes
+1168,23,f,Ukraine,Family,449,2022-02-23,Yes
+1169,21,f,Czech Republic,Premium,329,2024-09-13,Yes
+1170,45,m,Lithuania,Basic,149,2023-08-02,Yes
+1171,69,m,Ukraine,Family,449,2023-04-17,No
+1172,51,m,Czech Republic,Basic,149,2023-12-05,Yes
+1173,55,f,Lithuania,Premium,329,2023-05-03,No
+1174,17,f,Lithuania,Standard,219,2024-02-09,Yes
+1175,37,f,Ukraine,Standard,219,2022-10-18,No
+1176,50,f,Czech Republic,Family,449,2023-11-21,No
+1177,26,f,Ukraine,Basic,149,2024-08-11,Yes
+1178,31,f,Poland,Basic,149,2023-05-11,Yes
+1179,58,f,Lithuania,Standard,219,2024-01-24,Yes
+1180,59,m,Ukraine,Standard,219,2023-03-22,No
+1181,33,f,Ukraine,Basic,149,2022-10-27,Yes
+1182,37,m,Ukraine,Family,449,2023-05-03,Yes
+1183,49,m,Ukraine,Standard,219,2024-01-09,No
+1184,34,m,Poland,Standard,219,2023-02-07,Yes
+1185,48,f,Lithuania,Standard,219,2023-03-10,Yes
+1186,68,m,Ukraine,Family,449,2023-03-01,Yes
+1187,70,m,Czech Republic,Standard,219,2022-05-10,Yes
+1188,62,f,Spain,Family,449,2023-04-01,No
+1189,34,m,Lithuania,Basic,149,2023-12-22,No
+1190,28,m,Czech Republic,Premium,329,2022-09-05,Yes
+1191,66,m,Germany,Standard,219,2024-09-01,Yes
+1192,31,f,Poland,Standard,219,2024-09-12,Yes
+1193,47,f,Ukraine,Premium,329,2024-05-07,No
+1194,54,m,Germany,Premium,329,2024-01-18,Yes
+1195,34,f,Czech Republic,Standard,219,2023-03-11,Yes
+1196,62,f,Ukraine,Basic,149,2022-04-26,Yes
+1197,20,f,Spain,Standard,219,2024-01-07,Yes
+1198,18,f,Czech Republic,Premium,329,2024-08-15,Yes
+1199,23,m,Germany,Premium,329,2023-02-21,Yes
+1200,30,f,Poland,Premium,329,2024-12-07,Yes
+1201,34,f,Czech Republic,Premium,329,2022-10-04,Yes
+1202,43,f,Germany,Basic,149,2024-07-14,No
+1203,52,m,Ukraine,Standard,219,2023-07-05,No
+1204,21,m,Spain,Premium,329,2023-04-24,Yes
+1205,42,f,Spain,Premium,329,2022-04-10,Yes
+1206,52,f,Ukraine,Standard,219,2024-08-28,Yes
+1207,34,m,Ukraine,Basic,149,2022-09-02,Yes
+1208,32,f,Spain,Standard,219,2022-09-17,Yes
+1209,49,m,Ukraine,Standard,219,2023-09-14,Yes
+1210,51,m,Ukraine,Premium,329,2024-08-14,Yes
+1211,33,m,Poland,Standard,219,2023-05-17,Yes
+1212,46,f,Ukraine,Premium,329,2024-06-12,Yes
+1213,54,m,Spain,Basic,149,2024-11-21,No
+1214,36,f,Ukraine,Standard,219,2023-11-24,Yes
+1215,34,f,Czech Republic,Premium,329,2024-10-08,No
+1216,59,f,Poland,Premium,329,2024-07-23,Yes
+1217,47,f,Lithuania,Standard,219,2024-02-13,Yes
+1218,47,f,Ukraine,Standard,219,2022-03-16,Yes
+1219,61,f,Ukraine,Premium,329,2022-06-03,Yes
+1220,19,m,Czech Republic,Family,449,2022-09-08,Yes
+1221,49,m,Ukraine,Basic,149,2024-01-18,No
+1222,31,m,Ukraine,Standard,219,2022-08-26,Yes
+1223,36,m,Ukraine,Standard,219,2022-09-04,No
+1224,65,f,Germany,Standard,219,2022-09-24,Yes
+1225,25,m,Germany,Premium,329,2023-09-14,Yes
+1226,30,m,Ukraine,Basic,149,2023-04-07,Yes
+1227,34,m,Germany,Standard,219,2024-08-16,Yes
+1228,24,f,Poland,Premium,329,2022-02-20,No
+1229,48,f,Ukraine,Standard,219,2022-06-04,Yes
+1230,63,m,Ukraine,Standard,219,2024-06-11,Yes
+1231,51,f,Ukraine,Basic,149,2023-07-24,Yes
+1232,49,f,Ukraine,Premium,329,2023-09-16,No
+1233,37,m,Germany,Basic,149,2023-04-07,Yes
+1234,61,m,Germany,Standard,219,2024-07-24,Yes
+1235,44,m,Spain,Basic,149,2023-01-10,Yes
+1236,36,m,Ukraine,Standard,219,2022-11-28,Yes
+1237,52,f,Ukraine,Family,449,2023-09-07,Yes
+1238,70,f,Spain,Standard,219,2022-09-03,Yes
+1239,24,m,Czech Republic,Standard,219,2024-11-02,Yes
+1240,55,m,Poland,Premium,329,2022-03-13,Yes
+1241,67,m,Ukraine,Basic,149,2022-01-22,Yes
+1242,37,f,Germany,Standard,219,2024-06-12,Yes
+1243,55,f,Poland,Standard,219,2022-07-10,Yes
+1244,42,f,Ukraine,Standard,219,2022-03-06,Yes
+1245,28,f,Spain,Standard,219,2024-05-27,No
+1246,32,f,Lithuania,Premium,329,2024-09-08,Yes
+1247,59,m,Ukraine,Premium,329,2023-01-05,Yes
+1248,68,m,Ukraine,Basic,149,2023-03-04,No
+1249,50,m,Spain,Basic,149,2024-09-26,Yes
+1250,41,m,Germany,Basic,149,2022-08-06,No
+1251,46,f,Germany,Premium,329,2022-12-23,Yes
+1252,69,f,Poland,Standard,219,2022-01-23,Yes
+1253,52,f,Poland,Premium,329,2023-01-16,Yes
+1254,59,f,Ukraine,Basic,149,2023-04-15,Yes
+1255,70,f,Ukraine,Standard,219,2022-03-28,Yes
+1256,63,f,Germany,Premium,329,2022-07-21,Yes
+1257,61,f,Germany,Family,449,2024-06-26,Yes
+1258,49,f,Spain,Standard,219,2024-05-28,Yes
+1259,64,m,Ukraine,Standard,219,2024-10-01,Yes
+1260,59,m,Lithuania,Premium,329,2024-08-23,Yes
+1261,35,f,Ukraine,Standard,219,2023-10-28,Yes
+1262,69,m,Ukraine,Standard,219,2022-09-25,No
+1263,42,f,Czech Republic,Family,449,2024-10-14,Yes
+1264,26,m,Germany,Standard,219,2023-08-03,Yes
+1265,16,m,Poland,Standard,219,2024-02-19,Yes
+1266,57,f,Ukraine,Basic,149,2022-11-10,Yes
+1267,42,f,Spain,Basic,149,2024-03-04,Yes
+1268,33,f,Germany,Family,449,2023-04-11,Yes
+1269,60,m,Ukraine,Standard,219,2022-10-13,Yes
+1270,57,f,Czech Republic,Family,449,2023-07-03,Yes
+1271,38,f,Poland,Standard,219,2023-08-16,No
+1272,30,f,Poland,Premium,329,2024-06-14,Yes
+1273,46,f,Ukraine,Basic,149,2023-11-17,Yes
+1274,35,m,Spain,Standard,219,2024-09-10,Yes
+1275,37,m,Ukraine,Family,449,2023-01-02,Yes
+1276,35,m,Ukraine,Standard,219,2022-03-20,No
+1277,61,f,Czech Republic,Premium,329,2024-08-21,Yes
+1278,23,m,Lithuania,Family,449,2023-03-03,Yes
+1279,63,m,Ukraine,Basic,149,2022-05-28,No
+1280,36,f,Ukraine,Standard,219,2022-02-07,Yes
+1281,64,m,Czech Republic,Standard,219,2023-04-26,Yes
+1282,69,f,Ukraine,Basic,149,2022-03-21,No
+1283,40,f,Germany,Standard,219,2022-07-10,Yes
+1284,53,f,Ukraine,Standard,219,2023-05-13,Yes
+1285,19,m,Ukraine,Standard,219,2024-05-09,Yes
+1286,31,f,Ukraine,Standard,219,2022-03-18,Yes
+1287,37,f,Germany,Standard,219,2023-08-09,Yes
+1288,69,m,Ukraine,Premium,329,2024-02-09,Yes
+1289,58,m,Germany,Basic,149,2024-04-02,Yes
+1290,30,f,Ukraine,Standard,219,2024-12-16,Yes
+1291,62,m,Germany,Family,449,2024-12-09,Yes
+1292,61,f,Ukraine,Basic,149,2024-01-14,Yes
+1293,39,f,Ukraine,Basic,149,2023-10-23,Yes
+1294,23,m,Ukraine,Standard,219,2024-09-24,No
+1295,57,m,Ukraine,Premium,329,2024-12-16,Yes
+1296,53,f,Germany,Family,449,2024-11-07,No
+1297,45,f,Ukraine,Basic,149,2022-11-10,Yes
+1298,42,m,Czech Republic,Basic,149,2024-03-08,Yes
+1299,68,f,Ukraine,Standard,219,2022-01-25,Yes
+1300,54,f,Ukraine,Basic,149,2022-11-06,Yes
+1301,63,f,Ukraine,Family,449,2023-10-06,No
+1302,19,m,Ukraine,Standard,219,2022-11-26,Yes
+1303,43,f,Czech Republic,Family,449,2023-03-03,No
+1304,29,f,Germany,Premium,329,2024-10-17,No
+1305,62,m,Czech Republic,Premium,329,2022-12-19,Yes
+1306,43,m,Ukraine,Premium,329,2022-04-22,No
+1307,22,f,Czech Republic,Standard,219,2022-10-09,No
+1308,58,m,Ukraine,Premium,329,2022-01-28,Yes
+1309,61,f,Spain,Standard,219,2022-01-21,No
+1310,49,m,Ukraine,Basic,149,2024-01-21,Yes
+1311,47,m,Czech Republic,Basic,149,2024-11-23,Yes
+1312,24,f,Germany,Basic,149,2024-02-23,No
+1313,19,f,Ukraine,Family,449,2024-12-24,Yes
+1314,17,m,Czech Republic,Standard,219,2022-04-15,Yes
+1315,50,m,Germany,Basic,149,2024-06-25,Yes
+1316,67,m,Czech Republic,Standard,219,2024-09-28,No
+1317,42,m,Czech Republic,Family,449,2022-10-05,Yes
+1318,66,f,Spain,Standard,219,2023-06-03,Yes
+1319,45,m,Ukraine,Family,449,2023-03-05,Yes
+1320,66,m,Germany,Premium,329,2023-08-24,Yes
+1321,21,m,Poland,Premium,329,2024-07-16,No
+1322,45,f,Ukraine,Basic,149,2022-02-13,Yes
+1323,20,f,Ukraine,Basic,149,2024-10-24,Yes
+1324,29,f,Ukraine,Standard,219,2024-04-14,Yes
+1325,53,m,Germany,Basic,149,2022-02-07,Yes
+1326,20,f,Ukraine,Premium,329,2022-09-04,Yes
+1327,28,f,Czech Republic,Standard,219,2024-01-02,Yes
+1328,38,m,Lithuania,Standard,219,2022-12-26,Yes
+1329,40,f,Ukraine,Standard,219,2024-03-15,Yes
+1330,64,m,Czech Republic,Premium,329,2022-02-17,Yes
+1331,40,m,Ukraine,Standard,219,2023-06-28,No
+1332,60,f,Ukraine,Premium,329,2023-05-11,No
+1333,16,f,Germany,Basic,149,2022-11-04,Yes
+1334,21,m,Spain,Basic,149,2022-03-11,No
+1335,34,f,Ukraine,Premium,329,2024-05-15,Yes
+1336,46,m,Poland,Basic,149,2022-07-04,Yes
+1337,64,f,Germany,Standard,219,2022-09-28,Yes
+1338,33,m,Poland,Premium,329,2023-09-13,No
+1339,46,f,Poland,Standard,219,2024-02-02,Yes
+1340,40,m,Poland,Family,449,2023-08-11,No
+1341,49,f,Ukraine,Premium,329,2022-01-02,No
+1342,28,f,Ukraine,Premium,329,2023-06-14,No
+1343,41,m,Czech Republic,Standard,219,2022-10-08,No
+1344,24,f,Germany,Standard,219,2022-01-05,No
+1345,50,f,Ukraine,Standard,219,2022-12-08,No
+1346,44,m,Ukraine,Premium,329,2024-07-14,Yes
+1347,18,f,Spain,Standard,219,2022-08-02,Yes
+1348,17,f,Ukraine,Standard,219,2022-07-11,Yes
+1349,65,f,Spain,Standard,219,2023-01-10,Yes
+1350,53,m,Germany,Family,449,2024-12-23,Yes
+1351,58,m,Germany,Basic,149,2022-06-03,Yes
+1352,29,m,Spain,Basic,149,2023-06-04,Yes
+1353,44,f,Germany,Basic,149,2024-03-05,Yes
+1354,17,m,Czech Republic,Standard,219,2022-02-25,Yes
+1355,23,f,Ukraine,Family,449,2024-04-08,No
+1356,50,f,Spain,Family,449,2022-11-06,No
+1357,30,m,Germany,Standard,219,2022-08-18,Yes
+1358,59,m,Germany,Standard,219,2023-07-23,Yes
+1359,23,m,Germany,Standard,219,2022-03-22,Yes
+1360,55,m,Ukraine,Basic,149,2022-08-04,Yes
+1361,45,f,Ukraine,Standard,219,2024-07-26,Yes
+1362,58,f,Lithuania,Premium,329,2023-05-27,Yes
+1363,36,f,Czech Republic,Standard,219,2023-03-13,No
+1364,70,m,Ukraine,Basic,149,2023-12-08,Yes
+1365,50,m,Germany,Standard,219,2023-03-18,No
+1366,46,f,Ukraine,Premium,329,2024-12-01,No
+1367,16,m,Ukraine,Standard,219,2024-05-11,No
+1368,49,f,Ukraine,Family,449,2023-07-15,Yes
+1369,16,f,Ukraine,Basic,149,2022-05-15,No
+1370,60,m,Ukraine,Standard,219,2022-01-22,Yes
+1371,56,m,Ukraine,Premium,329,2023-04-08,Yes
+1372,47,f,Spain,Premium,329,2023-10-04,No
+1373,26,f,Ukraine,Basic,149,2022-11-21,Yes
+1374,54,f,Germany,Standard,219,2022-04-20,Yes
+1375,47,f,Ukraine,Standard,219,2024-03-10,No
+1376,25,f,Ukraine,Basic,149,2023-08-26,No
+1377,45,f,Poland,Family,449,2022-04-18,Yes
+1378,27,f,Czech Republic,Standard,219,2024-05-05,Yes
+1379,61,f,Czech Republic,Standard,219,2024-03-26,Yes
+1380,35,f,Czech Republic,Family,449,2023-02-06,No
+1381,59,m,Ukraine,Premium,329,2023-11-09,Yes
+1382,18,f,Ukraine,Standard,219,2022-04-20,Yes
+1383,34,f,Ukraine,Family,449,2024-02-05,No
+1384,21,f,Germany,Premium,329,2023-12-06,No
+1385,21,f,Germany,Premium,329,2023-01-23,Yes
+1386,18,m,Germany,Basic,149,2023-05-09,Yes
+1387,46,f,Ukraine,Basic,149,2023-04-20,Yes
+1388,25,f,Spain,Standard,219,2023-12-22,Yes
+1389,42,f,Ukraine,Standard,219,2024-05-11,Yes
+1390,18,f,Ukraine,Premium,329,2024-04-22,Yes
+1391,65,m,Spain,Premium,329,2022-03-17,Yes
+1392,23,m,Czech Republic,Standard,219,2024-11-07,Yes
+1393,18,f,Poland,Standard,219,2022-06-24,Yes
+1394,22,f,Ukraine,Family,449,2023-05-20,Yes
+1395,63,m,Poland,Standard,219,2023-01-18,Yes
+1396,35,f,Ukraine,Premium,329,2024-11-06,No
+1397,52,f,Germany,Standard,219,2024-08-02,Yes
+1398,60,m,Lithuania,Standard,219,2024-08-23,No
+1399,66,f,Germany,Premium,329,2022-09-01,Yes
+1400,37,f,Ukraine,Standard,219,2022-08-01,Yes
+1401,39,f,Poland,Premium,329,2023-04-24,Yes
+1402,65,m,Ukraine,Standard,219,2023-11-22,Yes
+1403,25,f,Poland,Standard,219,2023-12-03,Yes
+1404,33,f,Ukraine,Basic,149,2023-07-24,Yes
+1405,19,f,Czech Republic,Family,449,2024-09-16,Yes
+1406,19,m,Ukraine,Standard,219,2024-04-01,Yes
+1407,67,m,Poland,Basic,149,2022-04-11,No
+1408,49,f,Ukraine,Premium,329,2024-05-07,No
+1409,49,m,Ukraine,Family,449,2024-04-12,No
+1410,64,m,Ukraine,Premium,329,2022-08-07,Yes
+1411,55,m,Ukraine,Basic,149,2023-04-01,Yes
+1412,66,m,Czech Republic,Standard,219,2022-09-01,Yes
+1413,22,f,Lithuania,Premium,329,2022-11-16,No
+1414,59,m,Ukraine,Basic,149,2023-09-10,Yes
+1415,57,m,Germany,Basic,149,2022-05-04,No
+1416,50,m,Germany,Standard,219,2023-10-25,Yes
+1417,50,f,Ukraine,Standard,219,2024-09-01,No
+1418,31,m,Spain,Premium,329,2022-12-16,Yes
+1419,24,m,Ukraine,Standard,219,2022-05-24,Yes
+1420,55,f,Czech Republic,Premium,329,2022-08-16,Yes
+1421,55,m,Germany,Basic,149,2023-06-16,Yes
+1422,27,m,Spain,Family,449,2022-08-04,Yes
+1423,64,m,Ukraine,Premium,329,2022-07-10,Yes
+1424,32,m,Spain,Standard,219,2022-11-02,Yes
+1425,35,m,Czech Republic,Standard,219,2023-11-23,Yes
+1426,24,m,Poland,Standard,219,2023-11-18,Yes
+1427,40,f,Czech Republic,Family,449,2024-10-03,Yes
+1428,18,m,Ukraine,Basic,149,2022-11-02,Yes
+1429,24,f,Spain,Standard,219,2023-03-24,Yes
+1430,55,m,Poland,Standard,219,2024-11-16,Yes
+1431,16,f,Lithuania,Premium,329,2023-12-15,Yes
+1432,17,m,Ukraine,Standard,219,2023-06-14,Yes
+1433,43,f,Germany,Family,449,2023-10-10,Yes
+1434,66,f,Poland,Standard,219,2023-11-27,Yes
+1435,27,f,Spain,Basic,149,2022-09-18,Yes
+1436,63,f,Germany,Standard,219,2023-12-03,No
+1437,51,f,Ukraine,Standard,219,2023-08-13,Yes
+1438,20,f,Ukraine,Basic,149,2024-08-13,Yes
+1439,17,m,Poland,Standard,219,2022-02-25,Yes
+1440,54,m,Ukraine,Standard,219,2024-08-14,Yes
+1441,19,f,Ukraine,Standard,219,2024-04-08,No
+1442,44,f,Germany,Standard,219,2023-11-15,No
+1443,59,f,Spain,Basic,149,2023-07-17,No
+1444,43,f,Ukraine,Standard,219,2023-01-13,No
+1445,50,f,Poland,Premium,329,2023-04-25,No
+1446,26,m,Ukraine,Basic,149,2023-02-24,Yes
+1447,41,f,Ukraine,Premium,329,2023-04-04,Yes
+1448,43,m,Czech Republic,Basic,149,2022-05-17,Yes
+1449,60,m,Ukraine,Family,449,2024-05-14,Yes
+1450,25,f,Spain,Family,449,2024-04-21,Yes
+1451,62,m,Spain,Standard,219,2024-04-05,Yes
+1452,70,m,Ukraine,Basic,149,2022-03-24,No
+1453,23,m,Czech Republic,Premium,329,2022-12-12,No
+1454,38,f,Ukraine,Standard,219,2024-06-28,Yes
+1455,24,f,Ukraine,Standard,219,2023-12-05,Yes
+1456,55,f,Ukraine,Standard,219,2024-04-07,Yes
+1457,51,m,Germany,Family,449,2022-07-13,No
+1458,40,m,Poland,Premium,329,2023-12-08,Yes
+1459,39,f,Czech Republic,Basic,149,2023-02-25,Yes
+1460,39,m,Spain,Basic,149,2024-07-26,Yes
+1461,45,f,Poland,Premium,329,2022-06-28,Yes
+1462,52,m,Lithuania,Basic,149,2022-05-12,Yes
+1463,30,m,Ukraine,Premium,329,2024-09-26,Yes
+1464,64,m,Poland,Standard,219,2023-07-24,No
+1465,68,m,Germany,Basic,149,2024-10-08,Yes
+1466,21,f,Ukraine,Standard,219,2024-12-14,Yes
+1467,39,m,Lithuania,Premium,329,2024-02-07,Yes
+1468,27,f,Ukraine,Standard,219,2023-09-11,Yes
+1469,41,f,Poland,Standard,219,2023-12-27,Yes
+1470,49,m,Ukraine,Standard,219,2024-04-15,Yes
+1471,24,f,Ukraine,Family,449,2024-11-12,No
+1472,24,f,Lithuania,Family,449,2024-02-11,Yes
+1473,40,m,Ukraine,Premium,329,2022-05-20,Yes
+1474,32,f,Czech Republic,Premium,329,2024-10-11,Yes
+1475,37,m,Lithuania,Standard,219,2022-02-24,Yes
+1476,64,m,Czech Republic,Basic,149,2022-11-04,Yes
+1477,20,m,Czech Republic,Basic,149,2024-06-05,Yes
+1478,41,f,Czech Republic,Family,449,2022-12-03,Yes
+1479,37,f,Czech Republic,Family,449,2024-02-11,Yes
+1480,37,f,Lithuania,Family,449,2023-12-22,Yes
+1481,59,m,Spain,Premium,329,2024-11-22,Yes
+1482,59,m,Poland,Standard,219,2023-08-02,Yes
+1483,32,m,Ukraine,Standard,219,2024-12-27,Yes
+1484,67,f,Ukraine,Family,449,2024-05-15,Yes
+1485,18,f,Lithuania,Standard,219,2023-12-10,Yes
+1486,63,f,Lithuania,Family,449,2024-01-17,No
+1487,24,m,Ukraine,Premium,329,2024-11-23,No
+1488,48,m,Lithuania,Family,449,2023-07-27,Yes
+1489,31,f,Poland,Standard,219,2023-08-09,No
+1490,18,f,Ukraine,Standard,219,2023-11-19,Yes
+1491,27,f,Ukraine,Standard,219,2022-09-20,Yes
+1492,19,m,Ukraine,Family,449,2024-11-02,Yes
+1493,66,m,Ukraine,Standard,219,2023-05-27,No
+1494,61,m,Ukraine,Family,449,2022-03-15,Yes
+1495,43,m,Spain,Premium,329,2024-05-28,No
+1496,16,f,Ukraine,Basic,149,2023-04-17,Yes
+1497,35,m,Ukraine,Premium,329,2024-06-28,No
+1498,18,f,Ukraine,Premium,329,2022-02-08,Yes
+1499,16,f,Ukraine,Basic,149,2024-06-12,No
+1500,70,f,Ukraine,Standard,219,2022-08-05,Yes
+1501,28,f,Germany,Standard,219,2022-12-09,Yes
+1502,66,m,Ukraine,Family,449,2023-03-13,Yes
+1503,31,m,Ukraine,Premium,329,2024-05-03,No
+1504,33,m,Ukraine,Premium,329,2022-11-02,Yes
+1505,66,f,Spain,Basic,149,2023-09-28,Yes
+1506,33,m,Poland,Premium,329,2022-03-03,Yes
+1507,20,f,Ukraine,Standard,219,2023-09-26,Yes
+1508,30,f,Ukraine,Family,449,2022-04-19,Yes
+1509,29,f,Germany,Premium,329,2022-03-01,Yes
+1510,31,m,Spain,Family,449,2022-06-16,Yes
+1511,41,f,Ukraine,Standard,219,2023-03-25,Yes
+1512,59,m,Spain,Premium,329,2024-06-18,Yes
+1513,19,m,Ukraine,Family,449,2024-05-18,Yes
+1514,47,m,Ukraine,Basic,149,2022-02-19,Yes
+1515,22,m,Spain,Standard,219,2023-05-20,Yes
+1516,47,f,Ukraine,Basic,149,2022-10-11,No
+1517,63,m,Ukraine,Premium,329,2023-06-12,Yes
+1518,60,f,Ukraine,Basic,149,2023-09-10,No
+1519,41,m,Ukraine,Standard,219,2022-06-23,Yes
+1520,35,m,Poland,Basic,149,2024-10-05,No
+1521,60,m,Ukraine,Family,449,2022-09-24,No
+1522,61,f,Ukraine,Standard,219,2023-04-06,Yes
+1523,69,f,Lithuania,Family,449,2022-03-10,Yes
+1524,17,f,Ukraine,Standard,219,2022-01-03,Yes
+1525,34,m,Czech Republic,Standard,219,2023-10-19,Yes
+1526,62,m,Spain,Standard,219,2024-12-22,Yes
+1527,30,m,Czech Republic,Premium,329,2022-08-25,Yes
+1528,37,f,Ukraine,Family,449,2023-11-16,Yes
+1529,70,f,Ukraine,Basic,149,2023-04-20,Yes
+1530,56,m,Lithuania,Standard,219,2022-06-10,No
+1531,64,f,Germany,Family,449,2023-11-21,No
+1532,39,m,Poland,Basic,149,2023-06-13,No
+1533,20,m,Czech Republic,Family,449,2023-09-27,No
+1534,68,m,Spain,Standard,219,2024-08-26,Yes
+1535,29,f,Czech Republic,Premium,329,2022-01-25,Yes
+1536,58,f,Germany,Standard,219,2022-10-13,Yes
+1537,22,m,Ukraine,Premium,329,2024-03-17,No
+1538,49,f,Ukraine,Standard,219,2023-04-23,Yes
+1539,36,f,Ukraine,Premium,329,2023-08-05,Yes
+1540,44,m,Spain,Premium,329,2022-08-23,Yes
+1541,40,f,Lithuania,Basic,149,2022-01-02,Yes
+1542,54,f,Czech Republic,Premium,329,2022-08-18,Yes
+1543,70,m,Ukraine,Premium,329,2022-06-18,Yes
+1544,59,f,Poland,Standard,219,2024-08-27,Yes
+1545,43,f,Lithuania,Premium,329,2023-05-08,Yes
+1546,47,f,Czech Republic,Family,449,2022-10-24,Yes
+1547,39,f,Poland,Premium,329,2022-07-10,No
+1548,69,m,Germany,Standard,219,2024-08-07,No
+1549,63,m,Poland,Premium,329,2024-09-23,No
+1550,34,m,Lithuania,Standard,219,2022-03-22,Yes
+1551,21,m,Germany,Premium,329,2022-10-28,Yes
+1552,40,f,Germany,Premium,329,2022-12-18,Yes
+1553,28,f,Ukraine,Premium,329,2023-08-14,No
+1554,53,m,Poland,Standard,219,2023-05-09,Yes
+1555,36,f,Germany,Basic,149,2024-04-24,Yes
+1556,21,m,Ukraine,Basic,149,2024-06-02,No
+1557,44,m,Ukraine,Premium,329,2022-01-04,Yes
+1558,53,f,Ukraine,Premium,329,2023-04-18,Yes
+1559,47,f,Czech Republic,Basic,149,2023-06-24,Yes
+1560,69,m,Ukraine,Basic,149,2022-08-22,Yes
+1561,61,f,Germany,Standard,219,2023-06-27,Yes
+1562,49,m,Ukraine,Premium,329,2022-09-02,Yes
+1563,45,f,Poland,Premium,329,2022-10-09,Yes
+1564,70,f,Poland,Basic,149,2022-04-18,Yes
+1565,22,f,Germany,Family,449,2022-11-20,No
+1566,17,m,Poland,Family,449,2023-11-20,Yes
+1567,24,f,Ukraine,Basic,149,2022-08-15,Yes
+1568,55,f,Germany,Premium,329,2023-12-02,No
+1569,28,m,Germany,Family,449,2024-10-01,Yes
+1570,62,m,Germany,Standard,219,2024-05-23,Yes
+1571,48,m,Ukraine,Premium,329,2024-02-26,Yes
+1572,45,f,Spain,Family,449,2022-03-13,Yes
+1573,26,f,Czech Republic,Standard,219,2023-11-18,Yes
+1574,65,f,Ukraine,Premium,329,2024-11-21,Yes
+1575,67,f,Ukraine,Premium,329,2024-12-23,No
+1576,66,m,Ukraine,Basic,149,2024-05-20,Yes
+1577,33,m,Poland,Premium,329,2023-06-24,Yes
+1578,19,f,Germany,Standard,219,2023-04-14,Yes
+1579,26,f,Lithuania,Premium,329,2023-04-27,No
+1580,34,m,Ukraine,Standard,219,2024-03-04,No
+1581,21,f,Spain,Family,449,2022-04-01,No
+1582,18,m,Ukraine,Premium,329,2022-09-04,Yes
+1583,39,f,Poland,Standard,219,2023-03-21,Yes
+1584,69,m,Germany,Premium,329,2022-05-25,Yes
+1585,27,f,Spain,Premium,329,2023-10-26,No
+1586,43,m,Germany,Premium,329,2022-03-25,Yes
+1587,22,m,Poland,Basic,149,2023-02-16,Yes
+1588,65,m,Germany,Standard,219,2023-01-10,Yes
+1589,27,f,Lithuania,Standard,219,2022-01-07,Yes
+1590,26,m,Lithuania,Premium,329,2022-05-16,Yes
+1591,19,f,Ukraine,Standard,219,2024-01-26,Yes
+1592,46,m,Ukraine,Basic,149,2023-11-06,Yes
+1593,63,f,Poland,Standard,219,2024-03-15,Yes
+1594,63,f,Spain,Basic,149,2022-07-02,Yes
+1595,70,f,Ukraine,Basic,149,2022-06-22,Yes
+1596,53,f,Ukraine,Premium,329,2022-04-15,Yes
+1597,30,m,Ukraine,Family,449,2024-03-26,Yes
+1598,38,m,Germany,Family,449,2024-06-12,Yes
+1599,64,f,Czech Republic,Standard,219,2024-05-03,No
+1600,68,m,Poland,Standard,219,2022-07-28,Yes
