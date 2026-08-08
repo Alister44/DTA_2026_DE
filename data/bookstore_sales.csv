@@ -1,0 +1,401 @@
+order_id,date,city,book_title,genre,unit_price,quantity,discount_pct,total,channel,manager,rating
+5275,2024-06-25,Kharkiv,Sapiens,Science,410,2,0,820,Phone,Iryna,5
+5386,2024-08-09,Odesa,Pride and Prejudice,Romance,240,2,0,480,Phone,Iryna,5
+5100,2024-02-21,Kharkiv,Pride and Prejudice,Romance,240,1,15,204,Website,Iryna,5
+5352,2024-08-18,Dnipro,Sapiens,Science,410,1,0,410,Mobile App,Victor,3
+5032,2024-01-27,Kyiv,Sherlock Holmes,Detective,250,1,20,200,Website,Oleg,3
+5137,2024-03-06,Kharkiv,The Little Prince,Children's,160,2,0,320,Phone,Oleg,3
+5022,2024-01-24,Kyiv,The Forest Song,Poetry,150,2,0,300,Phone,Oleg,4
+5139,2024-03-22,Kyiv,The Forest Song,Poetry,150,3,10,405,Mobile App,Natalia,4
+5104,2024-03-13,Kharkiv,Quantum Physics,Science,450,2,5,855,Mobile App,Sofia,4
+5184,2024-04-24,Lviv,Kobzar,Poetry,180,1,0,180,Mobile App,Sofia,4
+5208,2024-05-13,Lviv,The Forest Song,Poetry,150,3,0,450,Phone,Sofia,4
+5114,2024-03-21,Odesa,Quantum Physics,Science,450,3,0,1350,Website,Sofia,4
+5215,2024-05-01,Kharkiv,The Power of Habit,Business,260,2,0,520,Phone,Natalia,4
+5320,2024-07-21,Kharkiv,Sapiens,Science,410,1,0,410,Mobile App,Iryna,3
+5295,2024-06-12,Kyiv,War and Peace,History,380,2,0,760,Phone,Iryna,5
+5325,2024-07-15,Odesa,Pride and Prejudice,Romance,240,1,0,240,Mobile App,Natalia,4
+5102,2024-03-03,Kyiv,Sherlock Holmes,Detective,250,3,0,750,Website,Oleg,5
+5342,2024-07-22,Dnipro,Shadows of Forgotten Ancestors,History,220,1,15,187,Phone,Iryna,5
+5269,2024-06-20,Odesa,The Forest Song,Poetry,150,2,0,300,Phone,Natalia,5
+5395,2024-08-12,Kharkiv,Sapiens,Science,410,2,0,820,Mobile App,Sofia,4
+5165,2024-04-14,Kharkiv,Dune,Fantasy,320,5,10,1440,Phone,Victor,5
+5194,2024-04-21,Odesa,1984,Fantasy,280,1,0,280,Phone,Iryna,4
+5025,2024-01-08,Odesa,Shadows of Forgotten Ancestors,History,220,4,0,880,Website,Sofia,4
+5024,2024-01-07,Kharkiv,The Forest Song,Poetry,150,2,0,300,Phone,Natalia,5
+5253,2024-06-27,Kyiv,Atomic Habits,Business,290,3,0,870,Website,Sofia,5
+5193,2024-04-19,Dnipro,Quantum Physics,Science,450,2,0,900,Mobile App,Natalia,5
+5175,2024-04-26,Dnipro,Sherlock Holmes,Detective,250,3,0,750,Phone,Sofia,4
+5307,2024-07-13,Dnipro,Shadows of Forgotten Ancestors,History,220,3,10,594,Website,Natalia,3
+5077,2024-02-20,Kharkiv,The Power of Habit,Business,260,2,0,520,Phone,Sofia,4
+5351,2024-08-06,Dnipro,Quantum Physics,Science,450,1,0,450,Phone,Sofia,4
+5282,2024-06-18,Dnipro,War and Peace,History,380,2,0,760,Phone,Natalia,4
+5297,2024-06-20,Lviv,Pet Sematary,Detective,270,4,0,1080,Mobile App,Oleg,4
+5303,2024-07-18,Odesa,Pride and Prejudice,Romance,240,1,0,240,Phone,Iryna,4
+5288,2024-06-10,Kyiv,1984,Fantasy,280,4,15,952,Mobile App,Sofia,5
+5158,2024-04-02,Lviv,Pet Sematary,Detective,270,2,20,432,Website,Sofia,5
+5055,2024-02-09,Odesa,Atomic Habits,Business,290,4,0,1160,Website,Iryna,4
+5016,2024-01-15,Dnipro,The Little Prince,Children's,160,1,0,160,Website,Iryna,4
+5382,2024-08-02,Kyiv,1984,Fantasy,280,1,0,280,Mobile App,Oleg,5
+5291,2024-06-06,Odesa,War and Peace,History,380,2,0,760,Mobile App,Sofia,3
+5101,2024-03-11,Kyiv,The Little Prince,Children's,160,1,0,160,Mobile App,Victor,4
+5252,2024-06-05,Dnipro,Pet Sematary,Detective,270,1,15,229.5,Phone,Sofia,4
+5141,2024-03-19,Odesa,The Power of Habit,Business,260,2,0,520,Phone,Natalia,4
+5130,2024-03-04,Kharkiv,Pride and Prejudice,Romance,240,5,0,1200,Website,Sofia,5
+5346,2024-07-03,Dnipro,Dune,Fantasy,320,1,0,320,Phone,Victor,4
+5317,2024-07-26,Kharkiv,Atomic Habits,Business,290,4,0,1160,Mobile App,Oleg,4
+5250,2024-05-17,Kyiv,The Forest Song,Poetry,150,2,0,300,Mobile App,Oleg,5
+5373,2024-08-08,Lviv,Atomic Habits,Business,290,2,15,493,Website,Victor,5
+5057,2024-02-23,Dnipro,The Forest Song,Poetry,150,2,0,300,Phone,Oleg,4
+5267,2024-06-13,Kyiv,Quantum Physics,Science,450,1,0,450,Website,Oleg,4
+5060,2024-02-24,Dnipro,Sapiens,Science,410,2,0,820,Phone,Natalia,5
+5164,2024-04-22,Kharkiv,Dune,Fantasy,320,2,10,576,Phone,Iryna,4
+5061,2024-02-10,Dnipro,Sapiens,Science,410,2,0,820,Phone,Natalia,4
+5088,2024-02-23,Lviv,Atomic Habits,Business,290,2,5,551,Phone,Sofia,4
+5050,2024-01-28,Lviv,War and Peace,History,380,1,15,323,Mobile App,Iryna,4
+5144,2024-03-25,Lviv,The Little Prince,Children's,160,1,5,152,Phone,Iryna,5
+5125,2024-03-26,Kyiv,Quantum Physics,Science,450,3,0,1350,Mobile App,Natalia,4
+5081,2024-02-01,Lviv,Quantum Physics,Science,450,4,0,1800,Website,Sofia,5
+5122,2024-03-04,Lviv,The Power of Habit,Business,260,4,0,1040,Mobile App,Natalia,5
+5277,2024-06-18,Odesa,Atomic Habits,Business,290,4,0,1160,Phone,Natalia,4
+5294,2024-06-25,Odesa,Dune,Fantasy,320,1,0,320,Mobile App,Sofia,4
+5029,2024-01-14,Kyiv,Sherlock Holmes,Detective,250,1,0,250,Phone,Iryna,4
+5091,2024-02-01,Odesa,The Little Prince,Children's,160,2,0,320,Website,Victor,4
+5293,2024-06-06,Kharkiv,Atomic Habits,Business,290,1,0,290,Mobile App,Oleg,5
+5160,2024-04-28,Lviv,Quantum Physics,Science,450,4,0,1800,Phone,Natalia,5
+5214,2024-05-17,Kharkiv,Sherlock Holmes,Detective,250,3,0,750,Website,Oleg,3
+5087,2024-02-28,Kharkiv,Sherlock Holmes,Detective,250,2,0,500,Website,Victor,4
+5026,2024-01-03,Kyiv,Pride and Prejudice,Romance,240,1,0,240,Website,Iryna,5
+5145,2024-03-26,Dnipro,The Forest Song,Poetry,150,2,0,300,Mobile App,Oleg,4
+5305,2024-07-03,Kharkiv,War and Peace,History,380,1,20,304,Website,Natalia,5
+5281,2024-06-03,Kharkiv,Kobzar,Poetry,180,1,15,153,Phone,Natalia,4
+5153,2024-04-04,Dnipro,Dune,Fantasy,320,1,0,320,Website,Victor,4
+5278,2024-06-09,Lviv,The Little Prince,Children's,160,2,15,272,Mobile App,Natalia,5
+5331,2024-07-18,Kyiv,War and Peace,History,380,2,0,760,Phone,Iryna,5
+5115,2024-03-03,Kharkiv,Sapiens,Science,410,2,0,820,Mobile App,Natalia,4
+5212,2024-05-07,Lviv,Pride and Prejudice,Romance,240,1,0,240,Mobile App,Iryna,5
+5344,2024-07-28,Dnipro,1984,Fantasy,280,2,0,560,Mobile App,Victor,4
+5283,2024-06-08,Dnipro,1984,Fantasy,280,1,0,280,Website,Oleg,4
+5394,2024-08-21,Kharkiv,Shadows of Forgotten Ancestors,History,220,1,0,220,Website,Iryna,4
+5390,2024-08-26,Odesa,1984,Fantasy,280,3,5,798,Phone,Natalia,3
+5056,2024-02-11,Dnipro,The Little Prince,Children's,160,1,0,160,Website,Victor,4
+5150,2024-03-09,Odesa,Shadows of Forgotten Ancestors,History,220,1,0,220,Website,Oleg,5
+5296,2024-06-17,Odesa,Shadows of Forgotten Ancestors,History,220,1,0,220,Phone,Iryna,5
+5076,2024-02-01,Kharkiv,Shadows of Forgotten Ancestors,History,220,1,0,220,Phone,Oleg,4
+5170,2024-04-12,Kharkiv,Atomic Habits,Business,290,1,0,290,Website,Iryna,5
+5132,2024-03-23,Kyiv,Quantum Physics,Science,450,5,0,2250,Mobile App,Sofia,4
+5301,2024-07-28,Kyiv,The Little Prince,Children's,160,2,0,320,Phone,Oleg,4
+5149,2024-03-26,Odesa,The Power of Habit,Business,260,3,0,780,Phone,Iryna,4
+5065,2024-02-07,Kharkiv,Shadows of Forgotten Ancestors,History,220,1,0,220,Mobile App,Victor,5
+5013,2024-01-05,Lviv,Sapiens,Science,410,4,0,1640,Phone,Sofia,4
+5138,2024-03-15,Kharkiv,Shadows of Forgotten Ancestors,History,220,4,0,880,Mobile App,Iryna,5
+5011,2024-01-25,Kyiv,Harry Potter,Children's,350,2,10,630,Mobile App,Victor,3
+5231,2024-05-06,Kharkiv,The Forest Song,Poetry,150,4,0,600,Mobile App,Sofia,4
+5400,2024-08-23,Odesa,Dune,Fantasy,320,5,0,1600,Website,Natalia,5
+5090,2024-02-03,Kharkiv,Kobzar,Poetry,180,1,0,180,Website,Victor,4
+5355,2024-08-10,Kyiv,Sherlock Holmes,Detective,250,1,0,250,Mobile App,Natalia,4
+5219,2024-05-08,Kyiv,Pride and Prejudice,Romance,240,1,5,228,Website,Victor,4
+5126,2024-03-16,Kharkiv,The Power of Habit,Business,260,2,20,416,Phone,Victor,5
+5006,2024-01-18,Kharkiv,Kobzar,Poetry,180,3,0,540,Website,Sofia,3
+5151,2024-04-18,Dnipro,Shadows of Forgotten Ancestors,History,220,1,10,198,Website,Iryna,4
+5230,2024-05-26,Kharkiv,The Power of Habit,Business,260,2,0,520,Phone,Victor,4
+5092,2024-02-09,Odesa,Harry Potter,Children's,350,1,0,350,Phone,Iryna,5
+5019,2024-01-27,Dnipro,The Forest Song,Poetry,150,1,0,150,Website,Oleg,5
+5209,2024-05-02,Lviv,Quantum Physics,Science,450,4,0,1800,Mobile App,Sofia,4
+5181,2024-04-14,Dnipro,Pet Sematary,Detective,270,1,0,270,Website,Natalia,4
+5054,2024-02-09,Dnipro,Kobzar,Poetry,180,3,15,459,Mobile App,Sofia,4
+5315,2024-07-08,Odesa,The Forest Song,Poetry,150,1,0,150,Website,Sofia,4
+5202,2024-05-20,Odesa,Kobzar,Poetry,180,1,10,162,Website,Sofia,5
+5186,2024-04-28,Kharkiv,Sapiens,Science,410,1,15,348.5,Phone,Victor,4
+5309,2024-07-14,Lviv,Kobzar,Poetry,180,2,0,360,Website,Victor,4
+5376,2024-08-11,Kyiv,Quantum Physics,Science,450,3,0,1350,Mobile App,Victor,4
+5174,2024-04-08,Odesa,Pride and Prejudice,Romance,240,1,0,240,Phone,Natalia,5
+5224,2024-05-24,Kyiv,Pet Sematary,Detective,270,1,0,270,Mobile App,Oleg,3
+5109,2024-03-05,Lviv,Sapiens,Science,410,1,0,410,Website,Iryna,5
+5380,2024-08-19,Lviv,Pride and Prejudice,Romance,240,1,0,240,Mobile App,Sofia,4
+5339,2024-07-02,Kharkiv,Pet Sematary,Detective,270,5,0,1350,Mobile App,Sofia,3
+5098,2024-02-17,Kyiv,Kobzar,Poetry,180,2,20,288,Website,Natalia,5
+5229,2024-05-25,Odesa,The Power of Habit,Business,260,2,0,520,Mobile App,Iryna,5
+5235,2024-05-02,Kharkiv,Kobzar,Poetry,180,2,5,342,Mobile App,Sofia,3
+5241,2024-05-16,Lviv,Harry Potter,Children's,350,5,0,1750,Website,Victor,4
+5113,2024-03-01,Odesa,Pet Sematary,Detective,270,3,0,810,Phone,Iryna,5
+5225,2024-05-19,Odesa,War and Peace,History,380,2,0,760,Website,Iryna,5
+5167,2024-04-20,Kharkiv,Pride and Prejudice,Romance,240,2,0,480,Phone,Sofia,4
+5389,2024-08-28,Kharkiv,Quantum Physics,Science,450,3,0,1350,Website,Sofia,5
+5234,2024-05-02,Odesa,1984,Fantasy,280,2,0,560,Phone,Victor,5
+5343,2024-07-07,Kharkiv,1984,Fantasy,280,4,0,1120,Website,Natalia,5
+5222,2024-05-22,Dnipro,Atomic Habits,Business,290,1,0,290,Mobile App,Iryna,5
+5178,2024-04-21,Kyiv,Pet Sematary,Detective,270,1,0,270,Phone,Sofia,5
+5306,2024-07-21,Kharkiv,Sapiens,Science,410,1,0,410,Mobile App,Victor,5
+5002,2024-01-03,Dnipro,Sherlock Holmes,Detective,250,2,0,500,Phone,Iryna,4
+5172,2024-04-22,Odesa,The Little Prince,Children's,160,4,0,640,Phone,Victor,3
+5136,2024-03-12,Lviv,Atomic Habits,Business,290,3,0,870,Phone,Victor,4
+5051,2024-02-14,Lviv,1984,Fantasy,280,3,0,840,Mobile App,Oleg,5
+5319,2024-07-14,Dnipro,Quantum Physics,Science,450,2,0,900,Phone,Oleg,5
+5140,2024-03-23,Odesa,The Little Prince,Children's,160,1,15,136,Website,Victor,4
+5119,2024-03-16,Kyiv,Harry Potter,Children's,350,2,0,700,Website,Natalia,5
+5177,2024-04-11,Lviv,Kobzar,Poetry,180,2,0,360,Website,Sofia,4
+5334,2024-07-20,Kharkiv,Dune,Fantasy,320,2,0,640,Website,Iryna,5
+5075,2024-02-18,Dnipro,The Power of Habit,Business,260,4,5,988,Phone,Oleg,5
+5328,2024-07-14,Lviv,Pride and Prejudice,Romance,240,4,0,960,Mobile App,Oleg,4
+5353,2024-08-03,Dnipro,Dune,Fantasy,320,1,0,320,Website,Sofia,5
+5370,2024-08-16,Kyiv,Atomic Habits,Business,290,2,0,580,Mobile App,Victor,4
+5350,2024-07-03,Odesa,War and Peace,History,380,1,0,380,Mobile App,Natalia,3
+5236,2024-05-01,Dnipro,Quantum Physics,Science,450,3,0,1350,Phone,Victor,3
+5247,2024-05-15,Dnipro,1984,Fantasy,280,5,0,1400,Mobile App,Oleg,4
+5084,2024-02-22,Kharkiv,The Little Prince,Children's,160,1,0,160,Mobile App,Oleg,5
+5239,2024-05-09,Kyiv,Pride and Prejudice,Romance,240,1,0,240,Website,Oleg,4
+5073,2024-02-07,Kharkiv,Atomic Habits,Business,290,2,0,580,Phone,Iryna,5
+5385,2024-08-06,Dnipro,Dune,Fantasy,320,1,0,320,Phone,Victor,5
+5018,2024-01-24,Dnipro,1984,Fantasy,280,2,15,476,Website,Sofia,4
+5103,2024-03-08,Kharkiv,Quantum Physics,Science,450,2,0,900,Phone,Sofia,3
+5366,2024-08-20,Kharkiv,Pet Sematary,Detective,270,2,0,540,Mobile App,Victor,3
+5223,2024-05-17,Kharkiv,Pride and Prejudice,Romance,240,2,5,456,Mobile App,Iryna,5
+5166,2024-04-05,Odesa,Sherlock Holmes,Detective,250,4,0,1000,Phone,Sofia,3
+5238,2024-05-12,Kyiv,The Little Prince,Children's,160,1,0,160,Phone,Oleg,4
+5310,2024-07-24,Kyiv,Atomic Habits,Business,290,1,0,290,Phone,Victor,5
+5397,2024-08-07,Lviv,The Power of Habit,Business,260,1,0,260,Mobile App,Natalia,5
+5221,2024-05-23,Kharkiv,Dune,Fantasy,320,2,0,640,Website,Sofia,3
+5251,2024-06-21,Dnipro,Pet Sematary,Detective,270,4,0,1080,Website,Sofia,4
+5335,2024-07-17,Dnipro,Pride and Prejudice,Romance,240,2,0,480,Mobile App,Iryna,5
+5210,2024-05-08,Odesa,Kobzar,Poetry,180,3,5,513,Mobile App,Oleg,4
+5205,2024-05-12,Odesa,Sherlock Holmes,Detective,250,2,0,500,Website,Oleg,3
+5082,2024-02-04,Lviv,1984,Fantasy,280,1,0,280,Mobile App,Natalia,5
+5107,2024-03-02,Odesa,Shadows of Forgotten Ancestors,History,220,2,0,440,Phone,Victor,4
+5326,2024-07-04,Kharkiv,Atomic Habits,Business,290,2,0,580,Mobile App,Oleg,5
+5083,2024-02-24,Lviv,Quantum Physics,Science,450,1,0,450,Mobile App,Iryna,5
+5298,2024-06-14,Kharkiv,Shadows of Forgotten Ancestors,History,220,3,0,660,Phone,Oleg,5
+5108,2024-03-26,Dnipro,Sherlock Holmes,Detective,250,2,15,425,Phone,Oleg,5
+5259,2024-06-13,Kharkiv,Harry Potter,Children's,350,1,0,350,Website,Oleg,5
+5318,2024-07-16,Lviv,Kobzar,Poetry,180,1,5,171,Mobile App,Oleg,4
+5010,2024-01-08,Kharkiv,The Little Prince,Children's,160,2,0,320,Mobile App,Sofia,4
+5367,2024-08-17,Dnipro,Sherlock Holmes,Detective,250,1,0,250,Phone,Sofia,5
+5039,2024-01-23,Odesa,Atomic Habits,Business,290,4,0,1160,Mobile App,Oleg,4
+5099,2024-02-23,Odesa,Harry Potter,Children's,350,1,0,350,Website,Iryna,4
+5094,2024-02-01,Lviv,Pet Sematary,Detective,270,2,0,540,Mobile App,Oleg,3
+5121,2024-03-18,Kharkiv,Quantum Physics,Science,450,1,0,450,Website,Oleg,3
+5255,2024-06-08,Kharkiv,Kobzar,Poetry,180,2,0,360,Mobile App,Victor,5
+5248,2024-05-19,Lviv,The Forest Song,Poetry,150,3,0,450,Mobile App,Sofia,4
+5232,2024-05-03,Lviv,Kobzar,Poetry,180,3,0,540,Phone,Natalia,4
+5012,2024-01-19,Odesa,Kobzar,Poetry,180,1,10,162,Website,Victor,5
+5379,2024-08-08,Lviv,Sherlock Holmes,Detective,250,2,0,500,Mobile App,Oleg,4
+5195,2024-04-15,Odesa,Atomic Habits,Business,290,2,0,580,Mobile App,Iryna,3
+5059,2024-02-13,Dnipro,Pride and Prejudice,Romance,240,1,0,240,Website,Oleg,5
+5244,2024-05-05,Kharkiv,Harry Potter,Children's,350,1,0,350,Website,Natalia,4
+5173,2024-04-10,Odesa,The Power of Habit,Business,260,4,0,1040,Website,Sofia,5
+5273,2024-06-24,Kharkiv,The Little Prince,Children's,160,2,0,320,Website,Oleg,5
+5391,2024-08-23,Dnipro,The Little Prince,Children's,160,2,0,320,Mobile App,Sofia,4
+5066,2024-02-25,Kyiv,Harry Potter,Children's,350,1,0,350,Mobile App,Oleg,5
+5263,2024-06-14,Odesa,Kobzar,Poetry,180,2,10,324,Phone,Natalia,3
+5095,2024-02-18,Kharkiv,Kobzar,Poetry,180,2,0,360,Phone,Sofia,4
+5218,2024-05-01,Lviv,Shadows of Forgotten Ancestors,History,220,2,10,396,Phone,Sofia,4
+5311,2024-07-01,Kyiv,The Little Prince,Children's,160,3,10,432,Website,Sofia,4
+5324,2024-07-08,Lviv,War and Peace,History,380,5,0,1900,Mobile App,Oleg,5
+5240,2024-05-04,Odesa,Shadows of Forgotten Ancestors,History,220,2,10,396,Phone,Victor,4
+5093,2024-02-24,Dnipro,Pride and Prejudice,Romance,240,4,0,960,Website,Victor,4
+5131,2024-03-14,Lviv,The Forest Song,Poetry,150,2,0,300,Website,Victor,5
+5243,2024-05-10,Lviv,War and Peace,History,380,1,0,380,Mobile App,Sofia,5
+5338,2024-07-19,Lviv,Sherlock Holmes,Detective,250,1,0,250,Mobile App,Iryna,4
+5020,2024-01-25,Kyiv,Atomic Habits,Business,290,3,0,870,Phone,Natalia,5
+5354,2024-08-05,Odesa,Pride and Prejudice,Romance,240,1,0,240,Mobile App,Oleg,4
+5148,2024-03-05,Lviv,Quantum Physics,Science,450,1,15,382.5,Phone,Victor,5
+5183,2024-04-07,Lviv,Sapiens,Science,410,5,0,2050,Website,Natalia,4
+5290,2024-06-15,Kyiv,The Forest Song,Poetry,150,4,10,540,Mobile App,Oleg,4
+5017,2024-01-25,Kyiv,Pet Sematary,Detective,270,4,5,1026,Mobile App,Victor,5
+5279,2024-06-11,Dnipro,War and Peace,History,380,1,0,380,Phone,Natalia,4
+5070,2024-02-25,Kharkiv,Quantum Physics,Science,450,1,0,450,Phone,Oleg,5
+5383,2024-08-17,Kharkiv,Harry Potter,Children's,350,3,15,892.5,Phone,Victor,5
+5207,2024-05-18,Dnipro,The Power of Habit,Business,260,3,0,780,Website,Natalia,5
+5086,2024-02-26,Dnipro,Quantum Physics,Science,450,1,20,360,Mobile App,Natalia,3
+5286,2024-06-03,Lviv,Kobzar,Poetry,180,2,10,324,Phone,Iryna,5
+5299,2024-06-28,Dnipro,Quantum Physics,Science,450,1,5,427.5,Mobile App,Sofia,5
+5233,2024-05-10,Dnipro,Atomic Habits,Business,290,1,0,290,Phone,Victor,4
+5287,2024-06-27,Kyiv,The Forest Song,Poetry,150,4,0,600,Mobile App,Victor,4
+5371,2024-08-23,Odesa,Atomic Habits,Business,290,1,0,290,Phone,Iryna,3
+5200,2024-04-10,Odesa,The Little Prince,Children's,160,1,0,160,Phone,Sofia,4
+5192,2024-04-21,Kharkiv,1984,Fantasy,280,2,5,532,Mobile App,Sofia,3
+5033,2024-01-13,Lviv,Sapiens,Science,410,2,0,820,Mobile App,Iryna,5
+5096,2024-02-10,Kyiv,Atomic Habits,Business,290,1,0,290,Phone,Oleg,4
+5265,2024-06-25,Dnipro,Kobzar,Poetry,180,1,0,180,Phone,Sofia,4
+5067,2024-02-15,Lviv,1984,Fantasy,280,3,0,840,Website,Victor,3
+5292,2024-06-28,Kharkiv,Pet Sematary,Detective,270,3,0,810,Mobile App,Sofia,5
+5340,2024-07-06,Kharkiv,Shadows of Forgotten Ancestors,History,220,1,0,220,Phone,Natalia,3
+5258,2024-06-11,Kyiv,Quantum Physics,Science,450,1,0,450,Mobile App,Victor,4
+5133,2024-03-25,Dnipro,Sapiens,Science,410,4,0,1640,Website,Sofia,4
+5134,2024-03-10,Kyiv,Sherlock Holmes,Detective,250,1,0,250,Mobile App,Iryna,5
+5285,2024-06-16,Lviv,The Forest Song,Poetry,150,1,0,150,Mobile App,Natalia,4
+5332,2024-07-22,Kyiv,The Power of Habit,Business,260,3,15,663,Mobile App,Oleg,3
+5042,2024-01-15,Odesa,The Forest Song,Poetry,150,1,0,150,Phone,Sofia,5
+5003,2024-01-18,Kharkiv,Pride and Prejudice,Romance,240,1,0,240,Phone,Natalia,4
+5323,2024-07-01,Lviv,Harry Potter,Children's,350,3,0,1050,Phone,Iryna,4
+5345,2024-07-23,Dnipro,Quantum Physics,Science,450,3,5,1282.5,Phone,Natalia,5
+5182,2024-04-19,Odesa,Sapiens,Science,410,1,0,410,Website,Oleg,4
+5004,2024-01-06,Odesa,Quantum Physics,Science,450,3,5,1282.5,Mobile App,Oleg,5
+5276,2024-06-11,Kharkiv,War and Peace,History,380,1,0,380,Phone,Victor,5
+5348,2024-07-22,Kharkiv,Pride and Prejudice,Romance,240,4,0,960,Website,Sofia,5
+5246,2024-05-17,Kharkiv,Sapiens,Science,410,5,0,2050,Phone,Iryna,4
+5169,2024-04-11,Kharkiv,Sapiens,Science,410,2,0,820,Mobile App,Iryna,5
+5190,2024-04-04,Lviv,Quantum Physics,Science,450,1,0,450,Mobile App,Natalia,4
+5171,2024-04-24,Lviv,The Power of Habit,Business,260,1,0,260,Phone,Iryna,5
+5274,2024-06-07,Odesa,Dune,Fantasy,320,2,0,640,Mobile App,Oleg,3
+5249,2024-05-17,Lviv,The Forest Song,Poetry,150,3,5,427.5,Website,Natalia,4
+5156,2024-04-28,Odesa,Harry Potter,Children's,350,1,15,297.5,Phone,Natalia,4
+5388,2024-08-03,Kyiv,Shadows of Forgotten Ancestors,History,220,1,10,198,Website,Oleg,4
+5117,2024-03-03,Odesa,The Power of Habit,Business,260,3,0,780,Website,Victor,4
+5030,2024-01-28,Lviv,Dune,Fantasy,320,1,0,320,Website,Sofia,3
+5300,2024-06-04,Dnipro,War and Peace,History,380,1,10,342,Phone,Oleg,3
+5237,2024-05-21,Kharkiv,Dune,Fantasy,320,1,0,320,Phone,Iryna,4
+5023,2024-01-06,Dnipro,1984,Fantasy,280,2,15,476,Mobile App,Oleg,4
+5063,2024-02-11,Lviv,Kobzar,Poetry,180,2,0,360,Phone,Natalia,3
+5015,2024-01-04,Lviv,Shadows of Forgotten Ancestors,History,220,1,0,220,Phone,Victor,4
+5365,2024-08-26,Kyiv,Quantum Physics,Science,450,5,0,2250,Website,Oleg,4
+5270,2024-06-23,Kharkiv,Pride and Prejudice,Romance,240,3,0,720,Website,Natalia,5
+5381,2024-08-06,Kharkiv,War and Peace,History,380,4,15,1292,Mobile App,Oleg,5
+5187,2024-04-13,Odesa,War and Peace,History,380,2,0,760,Website,Sofia,3
+5330,2024-07-06,Odesa,War and Peace,History,380,2,0,760,Website,Oleg,5
+5179,2024-04-06,Odesa,Harry Potter,Children's,350,1,0,350,Phone,Sofia,4
+5264,2024-06-02,Lviv,Quantum Physics,Science,450,1,0,450,Mobile App,Sofia,5
+5034,2024-01-15,Dnipro,Sapiens,Science,410,1,5,389.5,Phone,Victor,4
+5374,2024-08-07,Kharkiv,Sapiens,Science,410,1,0,410,Mobile App,Iryna,4
+5168,2024-04-28,Dnipro,Sapiens,Science,410,1,0,410,Phone,Oleg,5
+5080,2024-02-24,Odesa,Kobzar,Poetry,180,3,0,540,Website,Iryna,4
+5105,2024-03-20,Kyiv,Sapiens,Science,410,1,0,410,Website,Oleg,5
+5262,2024-06-02,Dnipro,Harry Potter,Children's,350,1,0,350,Phone,Victor,4
+5041,2024-01-07,Lviv,The Little Prince,Children's,160,5,0,800,Mobile App,Iryna,4
+5159,2024-04-07,Lviv,Harry Potter,Children's,350,1,5,332.5,Mobile App,Oleg,5
+5268,2024-06-15,Dnipro,War and Peace,History,380,1,0,380,Website,Natalia,3
+5143,2024-03-26,Odesa,The Power of Habit,Business,260,4,0,1040,Website,Oleg,4
+5079,2024-02-11,Kharkiv,Sapiens,Science,410,1,0,410,Mobile App,Victor,5
+5396,2024-08-03,Kharkiv,Dune,Fantasy,320,3,10,864,Phone,Natalia,5
+5206,2024-05-08,Lviv,Atomic Habits,Business,290,4,0,1160,Website,Natalia,5
+5364,2024-08-13,Kharkiv,Shadows of Forgotten Ancestors,History,220,5,0,1100,Phone,Iryna,4
+5213,2024-05-04,Dnipro,Pet Sematary,Detective,270,2,0,540,Website,Natalia,5
+5257,2024-06-24,Odesa,1984,Fantasy,280,1,0,280,Mobile App,Oleg,5
+5147,2024-03-06,Kharkiv,Pride and Prejudice,Romance,240,2,0,480,Mobile App,Natalia,4
+5260,2024-06-11,Lviv,The Power of Habit,Business,260,1,0,260,Mobile App,Sofia,4
+5204,2024-05-13,Odesa,War and Peace,History,380,4,0,1520,Website,Sofia,5
+5031,2024-01-15,Kyiv,Shadows of Forgotten Ancestors,History,220,1,0,220,Mobile App,Sofia,4
+5021,2024-01-27,Lviv,Shadows of Forgotten Ancestors,History,220,1,15,187,Website,Oleg,5
+5111,2024-03-09,Kharkiv,Shadows of Forgotten Ancestors,History,220,2,0,440,Mobile App,Iryna,4
+5135,2024-03-15,Odesa,Quantum Physics,Science,450,2,10,810,Website,Iryna,4
+5008,2024-01-03,Kyiv,Dune,Fantasy,320,2,5,608,Mobile App,Natalia,5
+5035,2024-01-02,Dnipro,1984,Fantasy,280,1,0,280,Website,Natalia,5
+5009,2024-01-12,Odesa,Shadows of Forgotten Ancestors,History,220,2,0,440,Phone,Iryna,4
+5038,2024-01-03,Dnipro,Harry Potter,Children's,350,2,0,700,Phone,Sofia,4
+5242,2024-05-03,Odesa,1984,Fantasy,280,4,0,1120,Phone,Natalia,5
+5089,2024-02-18,Kharkiv,Pet Sematary,Detective,270,1,5,256.5,Mobile App,Sofia,5
+5280,2024-06-13,Kharkiv,Kobzar,Poetry,180,1,0,180,Mobile App,Oleg,5
+5188,2024-04-03,Kyiv,Shadows of Forgotten Ancestors,History,220,3,10,594,Website,Victor,4
+5216,2024-05-08,Kyiv,Harry Potter,Children's,350,1,0,350,Phone,Natalia,3
+5199,2024-04-23,Kharkiv,Pride and Prejudice,Romance,240,2,0,480,Phone,Sofia,4
+5362,2024-08-03,Kharkiv,Shadows of Forgotten Ancestors,History,220,3,5,627,Phone,Victor,5
+5163,2024-04-19,Dnipro,Shadows of Forgotten Ancestors,History,220,1,0,220,Website,Sofia,3
+5398,2024-08-19,Kharkiv,Atomic Habits,Business,290,3,0,870,Mobile App,Iryna,3
+5007,2024-01-28,Lviv,Kobzar,Poetry,180,3,0,540,Phone,Iryna,4
+5271,2024-06-19,Kyiv,Atomic Habits,Business,290,2,20,464,Phone,Victor,4
+5360,2024-08-13,Dnipro,Atomic Habits,Business,290,1,5,275.5,Website,Sofia,4
+5256,2024-06-14,Lviv,Sherlock Holmes,Detective,250,2,0,500,Mobile App,Sofia,4
+5124,2024-03-17,Lviv,1984,Fantasy,280,1,15,238,Website,Natalia,5
+5058,2024-02-11,Kyiv,Atomic Habits,Business,290,1,15,246.5,Phone,Natalia,5
+5198,2024-04-02,Odesa,Atomic Habits,Business,290,2,0,580,Phone,Iryna,4
+5254,2024-06-14,Kyiv,Kobzar,Poetry,180,2,5,342,Mobile App,Sofia,5
+5123,2024-03-16,Lviv,Pride and Prejudice,Romance,240,2,0,480,Mobile App,Sofia,5
+5028,2024-01-19,Kharkiv,1984,Fantasy,280,2,10,504,Mobile App,Oleg,4
+5152,2024-04-10,Kyiv,Pet Sematary,Detective,270,3,10,729,Website,Iryna,5
+5201,2024-05-03,Dnipro,Dune,Fantasy,320,3,0,960,Phone,Victor,4
+5097,2024-02-25,Lviv,Atomic Habits,Business,290,1,0,290,Website,Victor,5
+5261,2024-06-01,Kharkiv,Shadows of Forgotten Ancestors,History,220,2,0,440,Phone,Victor,3
+5387,2024-08-14,Lviv,Quantum Physics,Science,450,2,0,900,Mobile App,Iryna,3
+5106,2024-03-06,Lviv,Kobzar,Poetry,180,2,0,360,Website,Victor,5
+5155,2024-04-16,Odesa,The Forest Song,Poetry,150,1,0,150,Website,Natalia,5
+5014,2024-01-19,Lviv,Pride and Prejudice,Romance,240,1,0,240,Website,Sofia,4
+5146,2024-03-14,Lviv,Sherlock Holmes,Detective,250,4,0,1000,Phone,Natalia,4
+5312,2024-07-28,Kyiv,Dune,Fantasy,320,1,0,320,Mobile App,Victor,3
+5314,2024-07-19,Odesa,The Power of Habit,Business,260,4,0,1040,Website,Natalia,5
+5308,2024-07-17,Lviv,Sherlock Holmes,Detective,250,1,0,250,Website,Iryna,3
+5284,2024-06-16,Lviv,Dune,Fantasy,320,1,0,320,Website,Sofia,3
+5128,2024-03-14,Kharkiv,The Little Prince,Children's,160,1,10,144,Phone,Victor,3
+5044,2024-01-09,Lviv,The Forest Song,Poetry,150,1,0,150,Phone,Natalia,4
+5142,2024-03-09,Kyiv,Dune,Fantasy,320,5,0,1600,Phone,Victor,3
+5127,2024-03-13,Odesa,Atomic Habits,Business,290,1,5,275.5,Website,Oleg,4
+5327,2024-07-28,Lviv,Atomic Habits,Business,290,1,0,290,Website,Natalia,4
+5162,2024-04-05,Dnipro,Atomic Habits,Business,290,1,0,290,Website,Iryna,5
+5384,2024-08-06,Kyiv,Sapiens,Science,410,2,0,820,Website,Natalia,3
+5337,2024-07-17,Odesa,Pride and Prejudice,Romance,240,1,0,240,Mobile App,Victor,4
+5358,2024-08-20,Odesa,Sapiens,Science,410,3,10,1107,Phone,Oleg,3
+5302,2024-07-17,Kyiv,War and Peace,History,380,2,0,760,Mobile App,Oleg,4
+5064,2024-02-02,Kharkiv,Harry Potter,Children's,350,3,0,1050,Phone,Iryna,4
+5072,2024-02-05,Kyiv,1984,Fantasy,280,1,0,280,Mobile App,Victor,5
+5052,2024-02-02,Lviv,Quantum Physics,Science,450,2,0,900,Website,Victor,5
+5045,2024-01-17,Kyiv,Harry Potter,Children's,350,2,10,630,Website,Victor,4
+5112,2024-03-11,Kyiv,The Little Prince,Children's,160,1,0,160,Website,Oleg,5
+5227,2024-05-23,Kharkiv,Pet Sematary,Detective,270,1,0,270,Website,Natalia,5
+5316,2024-07-21,Dnipro,The Little Prince,Children's,160,3,10,432,Mobile App,Iryna,5
+5211,2024-05-15,Odesa,Atomic Habits,Business,290,2,0,580,Mobile App,Sofia,4
+5078,2024-02-05,Lviv,Pet Sematary,Detective,270,1,0,270,Website,Natalia,5
+5322,2024-07-19,Dnipro,The Power of Habit,Business,260,1,5,247,Website,Victor,5
+5378,2024-08-27,Odesa,Atomic Habits,Business,290,3,0,870,Phone,Sofia,5
+5180,2024-04-25,Kyiv,Sherlock Holmes,Detective,250,4,0,1000,Mobile App,Victor,5
+5226,2024-05-06,Kharkiv,Atomic Habits,Business,290,2,5,551,Phone,Victor,5
+5392,2024-08-25,Kyiv,The Forest Song,Poetry,150,2,0,300,Mobile App,Oleg,5
+5393,2024-08-23,Lviv,War and Peace,History,380,3,0,1140,Phone,Victor,4
+5313,2024-07-25,Dnipro,Harry Potter,Children's,350,2,5,665,Mobile App,Oleg,3
+5368,2024-08-25,Dnipro,Harry Potter,Children's,350,1,0,350,Website,Natalia,5
+5289,2024-06-10,Dnipro,The Little Prince,Children's,160,1,20,128,Phone,Victor,4
+5272,2024-06-25,Lviv,Kobzar,Poetry,180,5,5,855,Phone,Iryna,5
+5036,2024-01-28,Kyiv,Dune,Fantasy,320,1,0,320,Phone,Iryna,4
+5074,2024-02-16,Odesa,The Power of Habit,Business,260,4,0,1040,Mobile App,Victor,3
+5347,2024-07-26,Kharkiv,Quantum Physics,Science,450,1,0,450,Website,Natalia,5
+5329,2024-07-18,Odesa,Sapiens,Science,410,2,0,820,Mobile App,Victor,5
+5069,2024-02-06,Kharkiv,Sapiens,Science,410,3,0,1230,Mobile App,Natalia,5
+5196,2024-04-20,Kharkiv,Pet Sematary,Detective,270,3,10,729,Mobile App,Sofia,5
+5071,2024-02-08,Odesa,Kobzar,Poetry,180,1,0,180,Phone,Iryna,4
+5154,2024-04-23,Kharkiv,Shadows of Forgotten Ancestors,History,220,1,15,187,Phone,Oleg,5
+5189,2024-04-28,Odesa,The Little Prince,Children's,160,1,0,160,Website,Natalia,4
+5161,2024-04-01,Odesa,Quantum Physics,Science,450,1,0,450,Website,Sofia,3
+5363,2024-08-22,Kharkiv,1984,Fantasy,280,2,0,560,Mobile App,Iryna,4
+5053,2024-02-08,Lviv,Atomic Habits,Business,290,1,5,275.5,Mobile App,Natalia,4
+5046,2024-01-25,Odesa,The Power of Habit,Business,260,1,0,260,Website,Victor,3
+5197,2024-04-02,Dnipro,Pride and Prejudice,Romance,240,4,0,960,Phone,Oleg,4
+5118,2024-03-22,Kharkiv,The Power of Habit,Business,260,2,20,416,Mobile App,Iryna,5
+5037,2024-01-22,Kharkiv,The Power of Habit,Business,260,1,0,260,Website,Sofia,5
+5377,2024-08-13,Dnipro,Pride and Prejudice,Romance,240,5,0,1200,Website,Natalia,5
+5375,2024-08-23,Kyiv,War and Peace,History,380,1,0,380,Phone,Iryna,5
+5356,2024-08-20,Kyiv,Harry Potter,Children's,350,2,0,700,Website,Natalia,4
+5217,2024-05-27,Lviv,Quantum Physics,Science,450,1,0,450,Phone,Victor,4
+5062,2024-02-17,Lviv,Shadows of Forgotten Ancestors,History,220,1,0,220,Phone,Iryna,4
+5176,2024-04-22,Odesa,Pet Sematary,Detective,270,2,0,540,Website,Oleg,5
+5357,2024-08-20,Odesa,Dune,Fantasy,320,4,0,1280,Mobile App,Natalia,4
+5369,2024-08-03,Lviv,Dune,Fantasy,320,2,0,640,Mobile App,Natalia,3
+5005,2024-01-03,Odesa,Harry Potter,Children's,350,4,0,1400,Mobile App,Sofia,4
+5228,2024-05-02,Odesa,Harry Potter,Children's,350,1,0,350,Phone,Victor,4
+5349,2024-07-03,Kharkiv,Kobzar,Poetry,180,3,0,540,Phone,Oleg,4
+5266,2024-06-12,Odesa,Sherlock Holmes,Detective,250,1,0,250,Phone,Natalia,5
+5116,2024-03-14,Odesa,Pet Sematary,Detective,270,1,0,270,Phone,Victor,5
+5304,2024-07-07,Kyiv,Sapiens,Science,410,1,0,410,Mobile App,Natalia,5
+5068,2024-02-18,Kharkiv,1984,Fantasy,280,3,0,840,Phone,Sofia,5
+5040,2024-01-25,Kyiv,Pet Sematary,Detective,270,2,0,540,Mobile App,Sofia,5
+5245,2024-05-18,Kyiv,Pride and Prejudice,Romance,240,2,0,480,Website,Natalia,3
+5110,2024-03-27,Odesa,1984,Fantasy,280,3,0,840,Mobile App,Iryna,5
+5001,2024-01-08,Kyiv,Pet Sematary,Detective,270,1,0,270,Phone,Sofia,4
+5049,2024-01-22,Dnipro,The Forest Song,Poetry,150,1,0,150,Mobile App,Sofia,3
+5361,2024-08-01,Kharkiv,Pride and Prejudice,Romance,240,1,5,228,Phone,Oleg,5
+5047,2024-01-04,Lviv,Pride and Prejudice,Romance,240,2,0,480,Phone,Iryna,3
+5399,2024-08-15,Lviv,Dune,Fantasy,320,1,5,304,Mobile App,Victor,3
+5220,2024-05-04,Kharkiv,Pet Sematary,Detective,270,3,0,810,Phone,Sofia,5
+5120,2024-03-23,Kyiv,Pride and Prejudice,Romance,240,1,0,240,Phone,Sofia,4
+5359,2024-08-11,Kharkiv,Shadows of Forgotten Ancestors,History,220,1,15,187,Phone,Oleg,4
+5372,2024-08-24,Lviv,Pet Sematary,Detective,270,3,15,688.5,Phone,Oleg,4
+5157,2024-04-04,Kharkiv,Dune,Fantasy,320,1,0,320,Website,Oleg,5
+5321,2024-07-09,Dnipro,Pride and Prejudice,Romance,240,2,0,480,Phone,Iryna,4
+5203,2024-05-21,Kharkiv,Pet Sematary,Detective,270,1,0,270,Website,Sofia,5
+5027,2024-01-17,Kharkiv,The Forest Song,Poetry,150,1,0,150,Website,Sofia,4
+5085,2024-02-08,Odesa,Sherlock Holmes,Detective,250,2,5,475,Phone,Sofia,3
+5333,2024-07-05,Dnipro,The Power of Habit,Business,260,2,0,520,Mobile App,Natalia,3
+5341,2024-07-17,Lviv,The Little Prince,Children's,160,5,20,640,Website,Sofia,5
+5191,2024-04-05,Lviv,War and Peace,History,380,4,0,1520,Mobile App,Oleg,4
+5043,2024-01-22,Lviv,Dune,Fantasy,320,2,0,640,Mobile App,Iryna,3
+5129,2024-03-21,Kharkiv,Sapiens,Science,410,5,5,1947.5,Website,Oleg,5
+5185,2024-04-22,Kyiv,War and Peace,History,380,1,0,380,Mobile App,Iryna,5
+5336,2024-07-26,Lviv,Pride and Prejudice,Romance,240,3,0,720,Website,Iryna,5
+5048,2024-01-14,Odesa,The Power of Habit,Business,260,1,0,260,Mobile App,Iryna,3
