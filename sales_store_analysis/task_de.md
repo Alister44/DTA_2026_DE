@@ -25,20 +25,20 @@ import numpy as np
 np.random.seed(42)
 n = 300
 
-categories = ['Molkereiprodukte', 'Brot und Backwaren', 'Fleisch und Fisch', 'Obst und Gemuese', 'Getraenke']
+categories = ['Milchprodukte', 'Brot und Backwaren', 'Fleisch und Fisch', 'Gemüse und Obst', 'Getränke']
 products = {
-    'Molkereiprodukte':   ['Milch 1L', 'Kefir 0.5L', 'Quark', 'Butter', 'Joghurt'],
-    'Brot und Backwaren': ['Weissbrot', 'Baguette', 'Broetchen', 'Roggenbrot', 'Croissant'],
-    'Fleisch und Fisch':  ['Haehnchenfilet', 'Schweinefleisch', 'Wurst', 'Seelachs', 'Wuerstchen'],
-    'Obst und Gemuese':   ['Kartoffeln', 'Karotten', 'Aepfel', 'Bananen', 'Tomaten'],
-    'Getraenke':          ['Wasser 1.5L', 'Orangensaft', 'Tee', 'Gemahlener Kaffee', 'Limonade'],
+    'Milchprodukte': ['Milch 1l', 'Kefir 0.5l', 'Käse (tiefgekühlt)', 'Butter', 'Joghurt'],
+    'Brot und Backwaren': ['Weißbrot', 'Brotlaib', 'Brötchen', 'Roggenbrot', 'Croissant'],
+    'Fleisch und Fisch': ['Hähnchenfilet', 'Schweinefleisch', 'Wurst', 'Seehecht', 'Würstchen'],
+    'Gemüse und Obst': ['Kartoffeln', 'Karotten', 'Äpfel', 'Bananen', 'Tomaten'],
+    'Getränke': ['Wasser 1.5l', 'Orangensaft', 'Tee', 'Gemahlener Kaffee', 'Limonade'],
 }
 prices = {
-    'Milch 1L': 1.15, 'Kefir 0.5L': 1.20, 'Quark': 1.50, 'Butter': 2.30, 'Joghurt': 0.85,
-    'Weissbrot': 1.80, 'Baguette': 1.50, 'Broetchen': 0.40, 'Roggenbrot': 2.20, 'Croissant': 1.10,
-    'Haehnchenfilet': 6.50, 'Schweinefleisch': 8.90, 'Wurst': 4.50, 'Seelachs': 5.20, 'Wuerstchen': 3.80,
-    'Kartoffeln': 1.20, 'Karotten': 0.90, 'Aepfel': 2.20, 'Bananen': 1.80, 'Tomaten': 2.90,
-    'Wasser 1.5L': 0.65, 'Orangensaft': 2.50, 'Tee': 3.20, 'Gemahlener Kaffee': 5.90, 'Limonade': 1.40,
+    'Milch 1l': 38, 'Kefir 0.5l': 22, 'Quark': 55, 'Butter': 95, 'Joghurt': 30,
+    'Weißbrot': 28, 'Brotlaib': 25, 'Brötchen': 12, 'Roggenbrot': 32, 'Croissant': 18,
+    'Hähnchenfilet': 165, 'Schweinefleisch': 210, 'Wurst': 145, 'Seehecht': 120, 'Würstchen': 98,
+    'Kartoffeln': 20, 'Karotten': 15, 'Äpfel': 45, 'Bananen': 52, 'Tomaten': 60,
+    'Wasser 1.5 l': 18, 'Orangensaft': 68, 'Tee': 85, 'Gemahlener Kaffee': 155, 'Limonade': 35,
 }
 
 chosen_cats = np.random.choice(categories, n, p=[0.25, 0.20, 0.20, 0.20, 0.15])
